@@ -44,3 +44,10 @@ Temporary Items
 
 *.opensdf
 *.sdf
+*.idb
+*.pdb
+*.tlog
+*.exe
+*.ilk
+*.obj
+*.log

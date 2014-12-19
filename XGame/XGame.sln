@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows Desktop
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XGame", "XGame\XGame.vcxproj", "{7B70EFA4-C176-482C-AC0D-407FEF0537EB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "Client\Client.vcxproj", "{C578AAD6-B2AA-4E9D-B477-75AAE7071028}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Servidor", "Servidor\Servidor.vcxproj", "{63782396-C992-4EF8-B345-37DE1E5B804B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7B70EFA4-C176-482C-AC0D-407FEF0537EB}.Debug|Win32.ActiveCfg = Debug|Win32
-		{7B70EFA4-C176-482C-AC0D-407FEF0537EB}.Debug|Win32.Build.0 = Debug|Win32
-		{7B70EFA4-C176-482C-AC0D-407FEF0537EB}.Release|Win32.ActiveCfg = Release|Win32
-		{7B70EFA4-C176-482C-AC0D-407FEF0537EB}.Release|Win32.Build.0 = Release|Win32
+		{C578AAD6-B2AA-4E9D-B477-75AAE7071028}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C578AAD6-B2AA-4E9D-B477-75AAE7071028}.Debug|Win32.Build.0 = Debug|Win32
+		{C578AAD6-B2AA-4E9D-B477-75AAE7071028}.Release|Win32.ActiveCfg = Release|Win32
+		{C578AAD6-B2AA-4E9D-B477-75AAE7071028}.Release|Win32.Build.0 = Release|Win32
+		{63782396-C992-4EF8-B345-37DE1E5B804B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63782396-C992-4EF8-B345-37DE1E5B804B}.Debug|Win32.Build.0 = Debug|Win32
+		{63782396-C992-4EF8-B345-37DE1E5B804B}.Release|Win32.ActiveCfg = Release|Win32
+		{63782396-C992-4EF8-B345-37DE1E5B804B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
