@@ -17,9 +17,6 @@
 
 using boost::asio::ip::udp;
 
-udp::socket *sock=NULL;
-udp::endpoint server_endpoint;
-
 enum action_t {
 	ACTION_OPEN_GAME,
 	ACTION_BEGIN_GAME,
