@@ -54,5 +54,7 @@ void connection(const char *host) {
 int main(int argc, char* argv[])
 {
 	std::thread t(connection,"127.0.0.1");
+
+	t.join();
 	return 0;
 }
