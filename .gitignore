@@ -54,3 +54,8 @@ Temporary Items
 *.suo
 *.vcxproj
 *.suo
+XGame/Client/Client.vcxproj
+XGame/Client/Client.vcxproj
+XGame/Client/Client.vcxproj
+XGame/Servidor/Servidor.vcxproj
+XGame/XGame.v12.suo
