@@ -13,6 +13,8 @@
 #include <boost/array.hpp>
 #include <boost/asio.hpp>
 #include <queue>
+#include <stdlib.h>
+#include <vector>
 
 #define PORT "51116"
 
@@ -98,9 +100,142 @@ void connection(const char *host) {
 	}
 }
 
+void displayMenu() {
+
+	std::cout << "MAIN MENU" << std::endl;
+	std::cout << "1 - Begin Game" << std::endl;
+	std::cout << "0 - Exit" << std::endl;
+}
+
+#define WORD_SIZE 10
+#define START_LETTERS 4
+#define BASIC_LIVES 3
+
+std::string words[WORD_SIZE] = {
+	"TREE",
+	"RAIL",
+	"APPLE",
+	"SUBWAY",
+	"LIFE",
+	"WEAPON",
+	"RANDOM",
+	"FINAL",
+	"BEGINNING",
+	"SWORD",
+};
+
+
+bool endedGame(std::vector<bool> letters, std::string word) {
+	for (int i = 0; i < word.size(); ++i) {
+		if (!letters[word[i] - 'A']) return false;
+	}
+	return true;
+}
+
+
+void drawGame(std::vector<bool> letters, std::string word, int lives) {
+	if (!endedGame(letters, word)) {
+		std::cout << "CURRENT LIVES: " << lives << std::endl;
+		std::cout << "USED LETTERS: ";
+		for (int i = 0; i < letters.size(); ++i) {
+			if (letters[i]) std::cout << char('A' + i) << " ";
+		}
+		std::cout << std::endl;
+		std::cout << "WORD: ";
+		for (int i = 0; i < word.size(); ++i) {
+			if (letters[word[i] - 'A']) {
+				std::cout << word[i] << " ";
+			}
+			else std::cout << "_ ";
+		}
+		std::cout << std::endl;
+	}
+	else {
+		std::cout << "WORD WAS: " << word << std::endl;
+	}
+}
+
+void startGame(int l) {
+	std::cout << "BEGIN NEW GAME" << std::endl;
+	int lives = BASIC_LIVES+l;
+	int wid = rand()%WORD_SIZE;
+	std::vector<bool> letters('Z' - 'A', false);
+	std::cout << "ENTER "<<START_LETTERS<<" LETTERS" << std::endl;
+	for (int i = 0; i < START_LETTERS; ++i) {
+		char c;
+		std::cin >> c;
+		if (c >= 'A' && c <= 'Z') c = c - 'A' + 'a';
+		if (c >= 'a' && c <= 'z' && !letters[c-'a']) {
+			letters[c - 'a'] = true;
+		}
+		else {
+			--i;
+		}
+	}
+	while (lives > 0 && !endedGame(letters,words[wid])) {
+		drawGame(letters, words[wid], lives);
+		std::cout << "1 - Add letter (Cost 1 life)" << std::endl;
+		std::cout << "2 - Solve word (Cost 1 life if word is not equal)" << std::endl;
+		std::cout << "3 - Buy 1 live (0.89$)" << std::endl;
+		std::cout << "4 - Buy 10 lives (6.99$)" << std::endl;
+		std::cout << "5 - Buy 100 lives (49.99$)" << std::endl;
+		std::cout << "0 - Exit" << std::endl;
+		int order;
+		std::cin >> order;
+		if (order == 1) {
+			char c;
+			bool ok = false;
+			while (!ok) {
+				std::cout << "INPUT LETTER:" << std::endl;
+				std::cin >> c;
+				if (c >= 'A' && c <= 'Z') c = c - 'A' + 'a';
+				if (c >= 'a' && c <= 'z' && !letters[c - 'a']) {
+					letters[c - 'a'] = true;
+					ok = true;
+				}
+			}
+			--lives;
+		}
+		else if (order == 2) {
+			std::string s;
+			std::cout << "INPUT WORD:" << std::endl;
+			std::cin >> s;
+			if (s == words[wid]) {
+				letters = std::vector<bool> ('Z' - 'A', true);
+			}
+			else --lives;
+		}
+		else if (order == 3) lives += 1;
+		else if (order == 4) lives += 10;
+		else if (order == 5) lives += 100;
+		else if (order == 0) {
+			lives = -1;
+		}
+	}
+	if (lives > 0) {
+		std::cout << "YOU WIN!" << std::endl;
+		drawGame(letters, words[wid], lives);
+		startGame(lives);
+	}
+	else {
+		std::cout << "YOU LOSE!" << std::endl;
+	}
+}
+
 int main(int argc, char* argv[])
 {
+	close = false;
 	std::thread t(connection,"127.0.0.1");
+	int order = -1;
+
+	while (order != 0) {
+		displayMenu();
+		std::cin >> order;
+		if (order == 1) {
+			startGame(0);
+		}
+	}
+	close = true;
 	t.join();
 	return 0;
 }
