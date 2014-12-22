@@ -17,7 +17,7 @@
 #define PORT "51116"
 
 bool close;
-CuaActiva queueInfo;
+
 
 using boost::asio::ip::udp;
 enum action_t {
@@ -63,7 +63,13 @@ public:
 		if (!isActive) isActive = true;
 		else isActive = false;
 	}
+
+	bool empty() {
+		return cuaInfo.empty();
+	}
 };
+
+CuaActiva queueInfo;
 
 void connection(const char *host) {
 	try {
