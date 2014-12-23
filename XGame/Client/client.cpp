@@ -19,8 +19,6 @@
 #define PORT "51116"
 
 bool close;
-informacio info;
-int level;
 
 using boost::asio::ip::udp;
 enum action_t {
@@ -37,6 +35,7 @@ struct informacio {
 	int value;
 };
 
+int level;
 
 class CuaActiva
 {
@@ -113,7 +112,7 @@ void connection(const char *host) {
 
 void displayMenu() {
 	//put info into queue
-	info = { ACTION_OPEN_GAME, 1 };
+	informacio info = { ACTION_OPEN_GAME, 1 };
 	queueInfo.putIn(info);
 	//init menu
 	std::cout << "MAIN MENU" << std::endl;
@@ -143,7 +142,7 @@ bool endedGame(std::vector<bool> letters, std::string word) {
 	for (int i = 0; i < word.size(); ++i) {
 		if (!letters[word[i] - 'A']) return false;
 	}
-	info = { ACTION_END_GAME, 2 };
+	informacio info = { ACTION_END_GAME, 2 };
 	queueInfo.putIn(info);
 	return true;
 }
@@ -174,7 +173,7 @@ void drawGame(std::vector<bool> letters, std::string word, int lives) {
 void startGame(int l) {
 	std::cout << "BEGIN NEW GAME" << std::endl;
 	//Put info into queue
-	info = { ACTION_BEGIN_GAME, 1 };
+	informacio info = { ACTION_BEGIN_GAME, 1 };
 	queueInfo.putIn(info);
 	//continue
 	int lives = BASIC_LIVES+l;
