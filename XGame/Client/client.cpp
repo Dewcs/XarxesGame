@@ -41,7 +41,7 @@ class CuaActiva
 {
 	std::queue<informacio>  cuaInfo;
 	bool isActive;
-	int levelCompleted = 0;
+
 public:
 	//constructor
 	CuaActiva(){
@@ -55,26 +55,34 @@ public:
 	};
 	//posar coses a la cua
 	void putIn(informacio type){
+		enter();
 		cuaInfo.push(type);
+		exit();
 	}
 	//returnar l'informacio de la cua
 	informacio getFirstInfo(){
-		return cuaInfo.front();
+		enter();
+		informacio i = cuaInfo.front();
+		cuaInfo.pop();
+		exit();
+		return i;
 	}
 	//canvia semafor
-	void change(){
-		if (!isActive) isActive = true;
-		else isActive = false;
+	void enter(){
+		while (isActive);
+		isActive = true;
+	}
+	void exit() {
+		isActive = false;
 	}
 
 	bool empty() {
-		return cuaInfo.empty();
+		enter();
+		bool empty = cuaInfo.empty();
+		exit();
+		return empty;
 	}
 
-	int level(){
-		levelCompleted++;
-		return levelCompleted;
-	}
 };
 
 CuaActiva queueInfo;
@@ -172,6 +180,7 @@ void drawGame(std::vector<bool> letters, std::string word, int lives) {
 
 void startGame(int l) {
 	std::cout << "BEGIN NEW GAME" << std::endl;
+	int levels = 0;
 	//Put info into queue
 	informacio info = { ACTION_BEGIN_GAME, 1 };
 	queueInfo.putIn(info);
@@ -223,8 +232,8 @@ void startGame(int l) {
 			std::cin >> s;
 			if (s == words[wid]) {
 				letters = std::vector<bool> ('Z' - 'A', true);
-				level = queueInfo.level();
-				info = { ACTION_END_LEVEL,level };
+				levels++;
+				info = { ACTION_END_LEVEL,levels };
 				queueInfo.putIn(info);
 			}
 			else {
@@ -261,6 +270,7 @@ void startGame(int l) {
 
 int main(int argc, char* argv[])
 {
+
 	close = false;
 	std::thread t(connection,"127.0.0.1");
 	int order = -1;
