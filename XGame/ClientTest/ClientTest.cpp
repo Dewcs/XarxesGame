@@ -126,7 +126,7 @@ int main(int argc, char* argv[])
 		informacio info = {(action_t)(rand() % (ACTION_END_GAME + 1)), i};
 		queueInfo.putIn(info);
 	}
-	informacio info = { ACTION_END_GAME, 256 };
+	informacio info = { ACTION_END_GAME, 255 };
 	queueInfo.putIn(info);
 	close = true;
 	t.join();
