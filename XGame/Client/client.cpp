@@ -19,7 +19,8 @@
 #define PORT "51116"
 
 bool close;
-
+informacio info;
+int level;
 
 using boost::asio::ip::udp;
 enum action_t {
@@ -41,6 +42,7 @@ class CuaActiva
 {
 	std::queue<informacio>  cuaInfo;
 	bool isActive;
+	int levelCompleted = 0;
 public:
 	//constructor
 	CuaActiva(){
@@ -69,6 +71,11 @@ public:
 	bool empty() {
 		return cuaInfo.empty();
 	}
+
+	int level(){
+		levelCompleted++;
+		return levelCompleted;
+	}
 };
 
 CuaActiva queueInfo;
@@ -85,14 +92,18 @@ void connection(const char *host) {
 		socket.open(udp::v4());
 
 		// send init game
-		while (!close && !queueInfo.empty()){
-			if (!close){
-			}else{
+		while (!close || !queueInfo.empty()){
+			if (!queueInfo.empty()){
+				informacio i = queueInfo.getFirstInfo();
+				std::cout << "SENDING" << std::endl;
+				boost::array<char, 2> send_buf = { i.action, i.value % 256 };
+				socket.send_to(boost::asio::buffer(send_buf), server_endpoint);
+			}
+			else{
+				std::chrono::milliseconds dura(10);
+				std::this_thread::sleep_for(dura);
 			}
 		}
-
-		boost::array<char, 2> send_buf = { ACTION_OPEN_GAME, 0 };
-		socket.send_to(boost::asio::buffer(send_buf), server_endpoint);
 	}
 	catch (std::exception& e)
 	{
@@ -101,7 +112,10 @@ void connection(const char *host) {
 }
 
 void displayMenu() {
-
+	//put info into queue
+	info = { ACTION_OPEN_GAME, 1 };
+	queueInfo.putIn(info);
+	//init menu
 	std::cout << "MAIN MENU" << std::endl;
 	std::cout << "1 - Begin Game" << std::endl;
 	std::cout << "0 - Exit" << std::endl;
@@ -129,6 +143,8 @@ bool endedGame(std::vector<bool> letters, std::string word) {
 	for (int i = 0; i < word.size(); ++i) {
 		if (!letters[word[i] - 'A']) return false;
 	}
+	info = { ACTION_END_GAME, 2 };
+	queueInfo.putIn(info);
 	return true;
 }
 
@@ -157,6 +173,10 @@ void drawGame(std::vector<bool> letters, std::string word, int lives) {
 
 void startGame(int l) {
 	std::cout << "BEGIN NEW GAME" << std::endl;
+	//Put info into queue
+	info = { ACTION_BEGIN_GAME, 1 };
+	queueInfo.putIn(info);
+	//continue
 	int lives = BASIC_LIVES+l;
 	int wid = rand()%WORD_SIZE;
 	std::vector<bool> letters('Z' - 'A', false);
@@ -195,6 +215,8 @@ void startGame(int l) {
 				}
 			}
 			--lives;
+			info = { ACTION_LOSE_LIFE, 1 };
+			queueInfo.putIn(info);
 		}
 		else if (order == 2) {
 			std::string s;
@@ -202,13 +224,29 @@ void startGame(int l) {
 			std::cin >> s;
 			if (s == words[wid]) {
 				letters = std::vector<bool> ('Z' - 'A', true);
+				level = queueInfo.level();
+				info = { ACTION_END_LEVEL,level };
+				queueInfo.putIn(info);
 			}
-			else --lives;
+			else {
+				info = { ACTION_LOSE_LIFE, 2 };
+				queueInfo.putIn(info);
+				--lives;
+			}
 		}
-		else if (order == 3) lives += 1;
-		else if (order == 4) lives += 10;
-		else if (order == 5) lives += 100;
-		else if (order == 0) {
+		else if (order == 3){ 
+			lives += 1; 
+			info = { ACTION_BUY_ITEM, 0 };
+			queueInfo.putIn(info);
+		}else if (order == 4){ 
+			lives += 10; 
+			info = { ACTION_BUY_ITEM, 1 };
+			queueInfo.putIn(info);
+		}else if (order == 5){ 
+			lives += 100; 
+			info = { ACTION_BUY_ITEM, 2 };
+			queueInfo.putIn(info);
+		}else if (order == 0) {
 			lives = -1;
 		}
 	}
