@@ -17,11 +17,16 @@
 #include <boost/asio.hpp>
 #include <unordered_map>
 #include <fstream>
+#include <thread>
+#include <chrono>
+#include <ctime>
 
 #define PORT 51116
 #define FNAME "log.txt"
 
 using boost::asio::ip::udp;
+
+bool FWRITE = false;
 
 enum action_t {
 	ACTION_OPEN_GAME,
@@ -61,9 +66,26 @@ std::string action2str(action_t action) {
 struct informacio {
 	enum action_t action;
 	unsigned value;
+	std::chrono::time_point<std::chrono::high_resolution_clock> timestamp;
 };
 
-typedef std::unordered_map<std::string, std::queue<informacio> > infomap;
+typedef std::unordered_map<std::string, std::queue<informacio>* > infomap;
+
+void store2log(std::string user, std::queue<informacio> *q) {
+	while (FWRITE);
+	FWRITE = true;
+	std::fstream fs;
+	fs.open(FNAME, std::fstream::out | std::fstream::app);
+	while (!q->empty()) {
+		informacio top = q->front();
+		std::chrono::time_point<std::chrono::high_resolution_clock> now = std::chrono::high_resolution_clock::now();
+		fs << "RecTime: " << std::chrono::duration_cast<std::chrono::milliseconds>(top.timestamp.time_since_epoch()).count() << ", WrTime: " << std::chrono::duration_cast<std::chrono::milliseconds>(now.time_since_epoch()).count() << ", User: " << user << ", Action: " << action2str(top.action) << ", Value: " << top.value << std::endl;
+		q->pop();
+	}
+	fs.close();
+	delete q;
+	FWRITE = false;
+}
 
 class server
 {
@@ -84,7 +106,7 @@ public:
 	{
 		if (!error && bytes_recvd > 0)
 		{
-			informacio info = { ACTION_OPEN_GAME, 0 };
+			informacio info = { ACTION_OPEN_GAME, 0, std::chrono::high_resolution_clock::now() };
 			for (int i = 0; i < bytes_recvd; ++i) {
 				if (i == 0) info.action = (action_t)data_[i];
 				else if (i < 5) {
@@ -94,11 +116,15 @@ public:
 			std::stringstream ss;
 			ss << sender_endpoint_;
 			std::string key = ss.str();
-			userinfo[key].push(info);
+			if (userinfo.count(key) == 0) userinfo[key] = new std::queue<informacio>;
+			userinfo[key]->push(info);
 			if (info.action == ACTION_END_GAME) {
-				store2log(key,userinfo[key]);
+				std::queue<informacio> *tmp = userinfo[key];
+				std::thread t(store2log, key, tmp);
+				userinfo[key] = new std::queue<informacio>;
+				t.detach();
 			}
-			dumpMem();
+			//dumpMem();
 
 			// wait for next
 			socket_.async_receive_from(
@@ -122,26 +148,17 @@ public:
 		std::cout << "################### DUMP #########################" << std::endl;
 		for (auto& x : userinfo) {
 			std::cout <<"user " << x.first << std::endl;
-			for (int i = 0; i < x.second.size(); ++i) {
-				informacio info = x.second.front();
+			for (int i = 0; i < x.second->size(); ++i) {
+				informacio info = x.second->front();
 				std::cout << info.action << " " << info.value << std::endl;
-				x.second.pop();
-				x.second.push(info);
+				x.second->pop();
+				x.second->push(info);
 			}
 		}
 		std::cout << "################### END DUMP #####################" << std::endl;
 	}
 
-	void store2log(std::string user, std::queue<informacio> q) {
-		std::fstream fs;
-		fs.open(FNAME, std::fstream::out | std::fstream::app);
-		while (!q.empty()) {
-			informacio top = q.front();
-			fs << "User: " << user << ", Action: " << action2str(top.action) << ", Value: " << top.value << std::endl;
-			q.pop();
-		}
-		fs.close();
-	}
+	
 
 	void handle_send_to(const boost::system::error_code& error, size_t bytes_sent)
 	{

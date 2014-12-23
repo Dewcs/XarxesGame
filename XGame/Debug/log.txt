@@ -1,0 +1,3936 @@
+User: 127.0.0.1:58860, Action: END_GAME, Value: 35
+User: 127.0.0.1:58860, Action: END_GAME, Value: 35
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 4294967172
+User: 127.0.0.1:58860, Action: END_GAME, Value: 108
+User: 127.0.0.1:58860, Action: END_GAME, Value: 35
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 4294967172
+User: 127.0.0.1:58860, Action: END_GAME, Value: 108
+User: 127.0.0.1:58860, Action: OPEN_GAME, Value: 4294967214
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 4294967184
+User: 127.0.0.1:58860, Action: END_GAME, Value: 4294967281
+User: 127.0.0.1:58860, Action: END_GAME, Value: 35
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 4294967172
+User: 127.0.0.1:58860, Action: END_GAME, Value: 108
+User: 127.0.0.1:58860, Action: OPEN_GAME, Value: 4294967214
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 4294967184
+User: 127.0.0.1:58860, Action: END_GAME, Value: 4294967281
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967227
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967275
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967206
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 60
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 12
+User: 127.0.0.1:58860, Action: END_LEVEL, Value: 4294967193
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 94
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 28
+User: 127.0.0.1:58860, Action: END_LEVEL, Value: 4294967223
+User: 127.0.0.1:58860, Action: END_GAME, Value: 4294967262
+User: 127.0.0.1:58860, Action: END_GAME, Value: 35
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 4294967172
+User: 127.0.0.1:58860, Action: END_GAME, Value: 108
+User: 127.0.0.1:58860, Action: OPEN_GAME, Value: 4294967214
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 4294967184
+User: 127.0.0.1:58860, Action: END_GAME, Value: 4294967281
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967227
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967275
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967206
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 60
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 12
+User: 127.0.0.1:58860, Action: END_LEVEL, Value: 4294967193
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 94
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 28
+User: 127.0.0.1:58860, Action: END_LEVEL, Value: 4294967223
+User: 127.0.0.1:58860, Action: END_GAME, Value: 4294967262
+User: 127.0.0.1:58860, Action: END_GAME, Value: 18
+User: 127.0.0.1:58860, Action: END_GAME, Value: 35
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 4294967172
+User: 127.0.0.1:58860, Action: END_GAME, Value: 108
+User: 127.0.0.1:58860, Action: OPEN_GAME, Value: 4294967214
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 4294967184
+User: 127.0.0.1:58860, Action: END_GAME, Value: 4294967281
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967227
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967275
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967206
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 60
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 12
+User: 127.0.0.1:58860, Action: END_LEVEL, Value: 4294967193
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 94
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 28
+User: 127.0.0.1:58860, Action: END_LEVEL, Value: 4294967223
+User: 127.0.0.1:58860, Action: END_GAME, Value: 4294967262
+User: 127.0.0.1:58860, Action: END_GAME, Value: 18
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 4294967240
+User: 127.0.0.1:58860, Action: END_GAME, Value: 4294967227
+User: 127.0.0.1:58860, Action: END_GAME, Value: 35
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 4294967172
+User: 127.0.0.1:58860, Action: END_GAME, Value: 108
+User: 127.0.0.1:58860, Action: OPEN_GAME, Value: 4294967214
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 4294967184
+User: 127.0.0.1:58860, Action: END_GAME, Value: 4294967281
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967227
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967275
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967206
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 60
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 12
+User: 127.0.0.1:58860, Action: END_LEVEL, Value: 4294967193
+User: 127.0.0.1:58860, Action: BUY_ITEM, Value: 94
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 28
+User: 127.0.0.1:58860, Action: END_LEVEL, Value: 4294967223
+User: 127.0.0.1:58860, Action: END_GAME, Value: 4294967262
+User: 127.0.0.1:58860, Action: END_GAME, Value: 18
+User: 127.0.0.1:58860, Action: LOSE_LIFE, Value: 4294967240
+User: 127.0.0.1:58860, Action: END_GAME, Value: 4294967227
+User: 127.0.0.1:58860, Action: BEGIN_GAME, Value: 4294967206
+User: 127.0.0.1:58860, Action: END_GAME, Value: 0
+User: 127.0.0.1:61867, Action: END_GAME, Value: 0
+User: 127.0.0.1:61867, Action: END_GAME, Value: 0
+User: 127.0.0.1:61867, Action: END_GAME, Value: 1
+User: 127.0.0.1:61867, Action: END_GAME, Value: 0
+User: 127.0.0.1:61867, Action: END_GAME, Value: 1
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61867, Action: END_GAME, Value: 4
+User: 127.0.0.1:61867, Action: END_GAME, Value: 0
+User: 127.0.0.1:61867, Action: END_GAME, Value: 1
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61867, Action: END_GAME, Value: 4
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61867, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61867, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61867, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61867, Action: END_GAME, Value: 10
+User: 127.0.0.1:61867, Action: END_GAME, Value: 0
+User: 127.0.0.1:61867, Action: END_GAME, Value: 1
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61867, Action: END_GAME, Value: 4
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61867, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61867, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61867, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61867, Action: END_GAME, Value: 10
+User: 127.0.0.1:61867, Action: END_GAME, Value: 11
+User: 127.0.0.1:61867, Action: END_GAME, Value: 0
+User: 127.0.0.1:61867, Action: END_GAME, Value: 1
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61867, Action: END_GAME, Value: 4
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61867, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61867, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61867, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61867, Action: END_GAME, Value: 10
+User: 127.0.0.1:61867, Action: END_GAME, Value: 11
+User: 127.0.0.1:61867, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61867, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61867, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61867, Action: END_GAME, Value: 15
+User: 127.0.0.1:61867, Action: END_GAME, Value: 0
+User: 127.0.0.1:61867, Action: END_GAME, Value: 1
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61867, Action: END_GAME, Value: 4
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61867, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61867, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61867, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61867, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61867, Action: END_GAME, Value: 10
+User: 127.0.0.1:61867, Action: END_GAME, Value: 11
+User: 127.0.0.1:61867, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61867, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61867, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61867, Action: END_GAME, Value: 15
+User: 127.0.0.1:61867, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61867, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61867, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61867, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61867, Action: END_GAME, Value: 0
+User: 127.0.0.1:59464, Action: END_GAME, Value: 0
+User: 127.0.0.1:59464, Action: END_GAME, Value: 1
+User: 127.0.0.1:59464, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:59464, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:59464, Action: END_GAME, Value: 4
+User: 127.0.0.1:59464, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:59464, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:59464, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:59464, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:59464, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:59464, Action: END_GAME, Value: 10
+User: 127.0.0.1:59464, Action: END_GAME, Value: 11
+User: 127.0.0.1:59464, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:59464, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:59464, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:59464, Action: END_GAME, Value: 15
+User: 127.0.0.1:59464, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:59464, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:59464, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:59464, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:59464, Action: END_GAME, Value: 0
+User: 127.0.0.1:61473, Action: END_GAME, Value: 0
+User: 127.0.0.1:61473, Action: END_GAME, Value: 1
+User: 127.0.0.1:61473, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61473, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61473, Action: END_GAME, Value: 4
+User: 127.0.0.1:61473, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61473, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61473, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61473, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61473, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61473, Action: END_GAME, Value: 10
+User: 127.0.0.1:61473, Action: END_GAME, Value: 11
+User: 127.0.0.1:61473, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61473, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61473, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61473, Action: END_GAME, Value: 15
+User: 127.0.0.1:61474, Action: END_GAME, Value: 0
+User: 127.0.0.1:61475, Action: END_GAME, Value: 0
+User: 127.0.0.1:61474, Action: END_GAME, Value: 1
+User: 127.0.0.1:61475, Action: END_GAME, Value: 1
+User: 127.0.0.1:61473, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61473, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61473, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61473, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61473, Action: END_GAME, Value: 0
+User: 127.0.0.1:61474, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61474, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61474, Action: END_GAME, Value: 4
+User: 127.0.0.1:61475, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61475, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61475, Action: END_GAME, Value: 4
+User: 127.0.0.1:61474, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61474, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61474, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61474, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61474, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61474, Action: END_GAME, Value: 10
+User: 127.0.0.1:61475, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61475, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61475, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61475, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61475, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61475, Action: END_GAME, Value: 10
+User: 127.0.0.1:61474, Action: END_GAME, Value: 11
+User: 127.0.0.1:61475, Action: END_GAME, Value: 11
+User: 127.0.0.1:61474, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61474, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61474, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61474, Action: END_GAME, Value: 15
+User: 127.0.0.1:61475, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61475, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61475, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61475, Action: END_GAME, Value: 15
+User: 127.0.0.1:61474, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61474, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61474, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61474, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61474, Action: END_GAME, Value: 0
+User: 127.0.0.1:61475, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61475, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61475, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61475, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61475, Action: END_GAME, Value: 0
+User: 127.0.0.1:61476, Action: END_GAME, Value: 0
+User: 127.0.0.1:61477, Action: END_GAME, Value: 0
+User: 127.0.0.1:61476, Action: END_GAME, Value: 1
+User: 127.0.0.1:61477, Action: END_GAME, Value: 1
+User: 127.0.0.1:61476, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61476, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61476, Action: END_GAME, Value: 4
+User: 127.0.0.1:61477, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61477, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61477, Action: END_GAME, Value: 4
+User: 127.0.0.1:61476, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61476, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61476, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61476, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61476, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61476, Action: END_GAME, Value: 10
+User: 127.0.0.1:61477, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61477, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61477, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61477, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61477, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61477, Action: END_GAME, Value: 10
+User: 127.0.0.1:61476, Action: END_GAME, Value: 11
+User: 127.0.0.1:61477, Action: END_GAME, Value: 11
+User: 127.0.0.1:61476, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61476, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61476, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61476, Action: END_GAME, Value: 15
+User: 127.0.0.1:61477, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61477, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61477, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61477, Action: END_GAME, Value: 15
+User: 127.0.0.1:61476, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61476, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61476, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61476, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61476, Action: END_GAME, Value: 0
+User: 127.0.0.1:61477, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61477, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61477, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61477, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61477, Action: END_GAME, Value: 0
+User: 127.0.0.1:61478, Action: END_GAME, Value: 0
+User: 127.0.0.1:61479, Action: END_GAME, Value: 0
+User: 127.0.0.1:61479, Action: END_GAME, Value: 1
+User: 127.0.0.1:61478, Action: END_GAME, Value: 1
+User: 127.0.0.1:61478, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61478, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61478, Action: END_GAME, Value: 4
+User: 127.0.0.1:61479, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61479, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61479, Action: END_GAME, Value: 4
+User: 127.0.0.1:61479, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61479, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61479, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61479, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61479, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61479, Action: END_GAME, Value: 10
+User: 127.0.0.1:61478, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61478, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61478, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61478, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61478, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61478, Action: END_GAME, Value: 10
+User: 127.0.0.1:61479, Action: END_GAME, Value: 11
+User: 127.0.0.1:61478, Action: END_GAME, Value: 11
+User: 127.0.0.1:61479, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61479, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61479, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61479, Action: END_GAME, Value: 15
+User: 127.0.0.1:61478, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61478, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61478, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61478, Action: END_GAME, Value: 15
+User: 127.0.0.1:61479, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61479, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61479, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61479, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61479, Action: END_GAME, Value: 0
+User: 127.0.0.1:61478, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61478, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61478, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61478, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61478, Action: END_GAME, Value: 0
+User: 127.0.0.1:61480, Action: END_GAME, Value: 0
+User: 127.0.0.1:61480, Action: END_GAME, Value: 1
+User: 127.0.0.1:61480, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61480, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61480, Action: END_GAME, Value: 4
+User: 127.0.0.1:61480, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61480, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61480, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61480, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61480, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61480, Action: END_GAME, Value: 10
+User: 127.0.0.1:61480, Action: END_GAME, Value: 11
+User: 127.0.0.1:61480, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61480, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61480, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61480, Action: END_GAME, Value: 15
+User: 127.0.0.1:61480, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61480, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61480, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61480, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61480, Action: END_GAME, Value: 0
+User: 127.0.0.1:61481, Action: END_GAME, Value: 0
+User: 127.0.0.1:61482, Action: END_GAME, Value: 0
+User: 127.0.0.1:61483, Action: END_GAME, Value: 0
+User: 127.0.0.1:61482, Action: END_GAME, Value: 1
+User: 127.0.0.1:61483, Action: END_GAME, Value: 1
+User: 127.0.0.1:61484, Action: END_GAME, Value: 0
+User: 127.0.0.1:61484, Action: END_GAME, Value: 1
+User: 127.0.0.1:61482, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61482, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61482, Action: END_GAME, Value: 4
+User: 127.0.0.1:61483, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61483, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61483, Action: END_GAME, Value: 4
+User: 127.0.0.1:61485, Action: END_GAME, Value: 0
+User: 127.0.0.1:61485, Action: END_GAME, Value: 1
+User: 127.0.0.1:61484, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61484, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61484, Action: END_GAME, Value: 4
+User: 127.0.0.1:61485, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61485, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61485, Action: END_GAME, Value: 4
+User: 127.0.0.1:61482, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61482, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61482, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61482, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61482, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61482, Action: END_GAME, Value: 10
+User: 127.0.0.1:61482, Action: END_GAME, Value: 11
+User: 127.0.0.1:61483, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61483, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61483, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61483, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61483, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61483, Action: END_GAME, Value: 10
+User: 127.0.0.1:61483, Action: END_GAME, Value: 11
+User: 127.0.0.1:61484, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61484, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61484, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61484, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61484, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61484, Action: END_GAME, Value: 10
+User: 127.0.0.1:61484, Action: END_GAME, Value: 11
+User: 127.0.0.1:61483, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61483, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61483, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61483, Action: END_GAME, Value: 15
+User: 127.0.0.1:61484, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61484, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61484, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61484, Action: END_GAME, Value: 15
+User: 127.0.0.1:61483, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61483, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61483, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61483, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61483, Action: END_GAME, Value: 0
+User: 127.0.0.1:61482, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61482, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61482, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61482, Action: END_GAME, Value: 15
+User: 127.0.0.1:61484, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61484, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61484, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61484, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61484, Action: END_GAME, Value: 0
+User: 127.0.0.1:61482, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61482, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61482, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61482, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61482, Action: END_GAME, Value: 0
+User: 127.0.0.1:61485, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61485, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61485, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61485, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61485, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61485, Action: END_GAME, Value: 10
+User: 127.0.0.1:61481, Action: END_GAME, Value: 1
+User: 127.0.0.1:61486, Action: END_GAME, Value: 0
+User: 127.0.0.1:61485, Action: END_GAME, Value: 11
+User: 127.0.0.1:61488, Action: END_GAME, Value: 0
+User: 127.0.0.1:61487, Action: END_GAME, Value: 0
+User: 127.0.0.1:61489, Action: END_GAME, Value: 0
+User: 127.0.0.1:61490, Action: END_GAME, Value: 0
+User: 127.0.0.1:61485, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61485, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61485, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61485, Action: END_GAME, Value: 15
+User: 127.0.0.1:61485, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61485, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61485, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61485, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61485, Action: END_GAME, Value: 0
+User: 127.0.0.1:61486, Action: END_GAME, Value: 1
+User: 127.0.0.1:61487, Action: END_GAME, Value: 1
+User: 127.0.0.1:61488, Action: END_GAME, Value: 1
+User: 127.0.0.1:61489, Action: END_GAME, Value: 1
+User: 127.0.0.1:61490, Action: END_GAME, Value: 1
+User: 127.0.0.1:61491, Action: END_GAME, Value: 0
+User: 127.0.0.1:61481, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61481, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61481, Action: END_GAME, Value: 4
+User: 127.0.0.1:61492, Action: END_GAME, Value: 0
+User: 127.0.0.1:61491, Action: END_GAME, Value: 1
+User: 127.0.0.1:61487, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61487, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61487, Action: END_GAME, Value: 4
+User: 127.0.0.1:61486, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61486, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61486, Action: END_GAME, Value: 4
+User: 127.0.0.1:61488, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61488, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61488, Action: END_GAME, Value: 4
+User: 127.0.0.1:61492, Action: END_GAME, Value: 1
+User: 127.0.0.1:61489, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61489, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61489, Action: END_GAME, Value: 4
+User: 127.0.0.1:61490, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61490, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61490, Action: END_GAME, Value: 4
+User: 127.0.0.1:61491, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61491, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61491, Action: END_GAME, Value: 4
+User: 127.0.0.1:61492, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:61492, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:61492, Action: END_GAME, Value: 4
+User: 127.0.0.1:61481, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61481, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61481, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61481, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61481, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61481, Action: END_GAME, Value: 10
+User: 127.0.0.1:61481, Action: END_GAME, Value: 11
+User: 127.0.0.1:61487, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61487, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61487, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61487, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61487, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61487, Action: END_GAME, Value: 10
+User: 127.0.0.1:61486, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61486, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61486, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61486, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61486, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61486, Action: END_GAME, Value: 10
+User: 127.0.0.1:61488, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61488, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61488, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61488, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61488, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61488, Action: END_GAME, Value: 10
+User: 127.0.0.1:61490, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61490, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61490, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61490, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61490, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61490, Action: END_GAME, Value: 10
+User: 127.0.0.1:61489, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61489, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61489, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61489, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61489, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61489, Action: END_GAME, Value: 10
+User: 127.0.0.1:61487, Action: END_GAME, Value: 11
+User: 127.0.0.1:61486, Action: END_GAME, Value: 11
+User: 127.0.0.1:61488, Action: END_GAME, Value: 11
+User: 127.0.0.1:61490, Action: END_GAME, Value: 11
+User: 127.0.0.1:61489, Action: END_GAME, Value: 11
+User: 127.0.0.1:61491, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61491, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61491, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61491, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61491, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61491, Action: END_GAME, Value: 10
+User: 127.0.0.1:61492, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:61492, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:61492, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:61492, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:61492, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:61492, Action: END_GAME, Value: 10
+User: 127.0.0.1:61491, Action: END_GAME, Value: 11
+User: 127.0.0.1:61481, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61481, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61481, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61481, Action: END_GAME, Value: 15
+User: 127.0.0.1:61492, Action: END_GAME, Value: 11
+User: 127.0.0.1:61487, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61487, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61487, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61487, Action: END_GAME, Value: 15
+User: 127.0.0.1:61486, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61486, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61486, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61486, Action: END_GAME, Value: 15
+User: 127.0.0.1:61488, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61488, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61488, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61488, Action: END_GAME, Value: 15
+User: 127.0.0.1:61489, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61489, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61489, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61489, Action: END_GAME, Value: 15
+User: 127.0.0.1:61490, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61490, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61490, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61490, Action: END_GAME, Value: 15
+User: 127.0.0.1:61491, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61491, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61491, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61491, Action: END_GAME, Value: 15
+User: 127.0.0.1:61492, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:61492, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:61492, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:61492, Action: END_GAME, Value: 15
+User: 127.0.0.1:61481, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61481, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61481, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61481, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61481, Action: END_GAME, Value: 0
+User: 127.0.0.1:61487, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61487, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61487, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61487, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61487, Action: END_GAME, Value: 0
+User: 127.0.0.1:61486, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61486, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61486, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61486, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61486, Action: END_GAME, Value: 0
+User: 127.0.0.1:61490, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61490, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61490, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61490, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61490, Action: END_GAME, Value: 0
+User: 127.0.0.1:61488, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61488, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61488, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61488, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61488, Action: END_GAME, Value: 0
+User: 127.0.0.1:61489, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61489, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61489, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61489, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61489, Action: END_GAME, Value: 0
+User: 127.0.0.1:61491, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61491, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61491, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61491, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61491, Action: END_GAME, Value: 0
+User: 127.0.0.1:61492, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:61492, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:61492, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:61492, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:61492, Action: END_GAME, Value: 0
+User: 127.0.0.1:55079, Action: END_GAME, Value: 0
+User: 127.0.0.1:55079, Action: END_GAME, Value: 0
+User: 127.0.0.1:55079, Action: END_GAME, Value: 1
+User: 127.0.0.1:55079, Action: END_GAME, Value: 0
+User: 127.0.0.1:55079, Action: END_GAME, Value: 1
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55079, Action: END_GAME, Value: 4
+User: 127.0.0.1:55079, Action: END_GAME, Value: 0
+User: 127.0.0.1:55079, Action: END_GAME, Value: 1
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55079, Action: END_GAME, Value: 4
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55079, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55079, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55079, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55079, Action: END_GAME, Value: 10
+User: 127.0.0.1:55079, Action: END_GAME, Value: 0
+User: 127.0.0.1:55079, Action: END_GAME, Value: 1
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55079, Action: END_GAME, Value: 4
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55079, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55079, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55079, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55079, Action: END_GAME, Value: 10
+User: 127.0.0.1:55079, Action: END_GAME, Value: 11
+User: 127.0.0.1:55079, Action: END_GAME, Value: 0
+User: 127.0.0.1:55079, Action: END_GAME, Value: 1
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55079, Action: END_GAME, Value: 4
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55079, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55079, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55079, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55079, Action: END_GAME, Value: 10
+User: 127.0.0.1:55079, Action: END_GAME, Value: 11
+User: 127.0.0.1:55079, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55079, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55079, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55079, Action: END_GAME, Value: 15
+User: 127.0.0.1:55079, Action: END_GAME, Value: 0
+User: 127.0.0.1:55079, Action: END_GAME, Value: 1
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55079, Action: END_GAME, Value: 4
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55079, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55079, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55079, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55079, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55079, Action: END_GAME, Value: 10
+User: 127.0.0.1:55079, Action: END_GAME, Value: 11
+User: 127.0.0.1:55079, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55079, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55079, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55079, Action: END_GAME, Value: 15
+User: 127.0.0.1:55079, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55079, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55079, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55079, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55079, Action: END_GAME, Value: 0
+User: 127.0.0.1:55080, Action: END_GAME, Value: 0
+User: 127.0.0.1:55080, Action: END_GAME, Value: 0
+User: 127.0.0.1:55080, Action: END_GAME, Value: 1
+User: 127.0.0.1:55080, Action: END_GAME, Value: 0
+User: 127.0.0.1:55080, Action: END_GAME, Value: 1
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55080, Action: END_GAME, Value: 4
+User: 127.0.0.1:55080, Action: END_GAME, Value: 0
+User: 127.0.0.1:55080, Action: END_GAME, Value: 1
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55080, Action: END_GAME, Value: 4
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55080, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55080, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55080, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55080, Action: END_GAME, Value: 10
+User: 127.0.0.1:55080, Action: END_GAME, Value: 0
+User: 127.0.0.1:55080, Action: END_GAME, Value: 1
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55080, Action: END_GAME, Value: 4
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55080, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55080, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55080, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55080, Action: END_GAME, Value: 10
+User: 127.0.0.1:55080, Action: END_GAME, Value: 11
+User: 127.0.0.1:55080, Action: END_GAME, Value: 0
+User: 127.0.0.1:55080, Action: END_GAME, Value: 1
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55080, Action: END_GAME, Value: 4
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55080, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55080, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55080, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55080, Action: END_GAME, Value: 10
+User: 127.0.0.1:55080, Action: END_GAME, Value: 11
+User: 127.0.0.1:55080, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55080, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55080, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55080, Action: END_GAME, Value: 15
+User: 127.0.0.1:55080, Action: END_GAME, Value: 0
+User: 127.0.0.1:55080, Action: END_GAME, Value: 1
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55080, Action: END_GAME, Value: 4
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55080, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55080, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55080, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55080, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55080, Action: END_GAME, Value: 10
+User: 127.0.0.1:55080, Action: END_GAME, Value: 11
+User: 127.0.0.1:55080, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55080, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55080, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55080, Action: END_GAME, Value: 15
+User: 127.0.0.1:55080, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55080, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55080, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55080, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55080, Action: END_GAME, Value: 0
+User: 127.0.0.1:55081, Action: END_GAME, Value: 0
+User: 127.0.0.1:55083, Action: END_GAME, Value: 0
+User: 127.0.0.1:55083, Action: END_GAME, Value: 0
+User: 127.0.0.1:55083, Action: END_GAME, Value: 1
+User: 127.0.0.1:55081, Action: END_GAME, Value: 0
+User: 127.0.0.1:55081, Action: END_GAME, Value: 1
+User: 127.0.0.1:55081, Action: END_GAME, Value: 0
+User: 127.0.0.1:55081, Action: END_GAME, Value: 1
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55081, Action: END_GAME, Value: 4
+User: 127.0.0.1:55083, Action: END_GAME, Value: 0
+User: 127.0.0.1:55083, Action: END_GAME, Value: 1
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55083, Action: END_GAME, Value: 4
+User: 127.0.0.1:55081, Action: END_GAME, Value: 0
+User: 127.0.0.1:55081, Action: END_GAME, Value: 1
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55081, Action: END_GAME, Value: 4
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55081, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55081, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55081, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55081, Action: END_GAME, Value: 10
+User: 127.0.0.1:55081, Action: END_GAME, Value: 0
+User: 127.0.0.1:55081, Action: END_GAME, Value: 1
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55081, Action: END_GAME, Value: 4
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55081, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55081, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55081, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55081, Action: END_GAME, Value: 10
+User: 127.0.0.1:55081, Action: END_GAME, Value: 11
+User: 127.0.0.1:55083, Action: END_GAME, Value: 0
+User: 127.0.0.1:55083, Action: END_GAME, Value: 1
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55083, Action: END_GAME, Value: 4
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55083, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55083, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55083, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55083, Action: END_GAME, Value: 10
+User: 127.0.0.1:55083, Action: END_GAME, Value: 0
+User: 127.0.0.1:55083, Action: END_GAME, Value: 1
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55083, Action: END_GAME, Value: 4
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55083, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55083, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55083, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55083, Action: END_GAME, Value: 10
+User: 127.0.0.1:55083, Action: END_GAME, Value: 11
+User: 127.0.0.1:55081, Action: END_GAME, Value: 0
+User: 127.0.0.1:55081, Action: END_GAME, Value: 1
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55081, Action: END_GAME, Value: 4
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55081, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55081, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55081, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55081, Action: END_GAME, Value: 10
+User: 127.0.0.1:55081, Action: END_GAME, Value: 11
+User: 127.0.0.1:55081, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55081, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55081, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55081, Action: END_GAME, Value: 15
+User: 127.0.0.1:55083, Action: END_GAME, Value: 0
+User: 127.0.0.1:55083, Action: END_GAME, Value: 1
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55083, Action: END_GAME, Value: 4
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55083, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55083, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55083, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55083, Action: END_GAME, Value: 10
+User: 127.0.0.1:55083, Action: END_GAME, Value: 11
+User: 127.0.0.1:55083, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55083, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55083, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55083, Action: END_GAME, Value: 15
+User: 127.0.0.1:55081, Action: END_GAME, Value: 0
+User: 127.0.0.1:55081, Action: END_GAME, Value: 1
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55081, Action: END_GAME, Value: 4
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55081, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55081, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55081, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55081, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55081, Action: END_GAME, Value: 10
+User: 127.0.0.1:55081, Action: END_GAME, Value: 11
+User: 127.0.0.1:55081, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55081, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55081, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55081, Action: END_GAME, Value: 15
+User: 127.0.0.1:55081, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55081, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55081, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55081, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55081, Action: END_GAME, Value: 0
+User: 127.0.0.1:55083, Action: END_GAME, Value: 0
+User: 127.0.0.1:55083, Action: END_GAME, Value: 1
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55083, Action: END_GAME, Value: 4
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55083, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55083, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55083, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55083, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55083, Action: END_GAME, Value: 10
+User: 127.0.0.1:55083, Action: END_GAME, Value: 11
+User: 127.0.0.1:55083, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55083, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55083, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55083, Action: END_GAME, Value: 15
+User: 127.0.0.1:55083, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55083, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55083, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55083, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55083, Action: END_GAME, Value: 0
+User: 127.0.0.1:55084, Action: END_GAME, Value: 0
+User: 127.0.0.1:55085, Action: END_GAME, Value: 0
+User: 127.0.0.1:55086, Action: END_GAME, Value: 0
+User: 127.0.0.1:55084, Action: END_GAME, Value: 0
+User: 127.0.0.1:55084, Action: END_GAME, Value: 1
+User: 127.0.0.1:55085, Action: END_GAME, Value: 0
+User: 127.0.0.1:55085, Action: END_GAME, Value: 1
+User: 127.0.0.1:55086, Action: END_GAME, Value: 0
+User: 127.0.0.1:55086, Action: END_GAME, Value: 1
+User: 127.0.0.1:55085, Action: END_GAME, Value: 0
+User: 127.0.0.1:55085, Action: END_GAME, Value: 1
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55085, Action: END_GAME, Value: 4
+User: 127.0.0.1:55084, Action: END_GAME, Value: 0
+User: 127.0.0.1:55084, Action: END_GAME, Value: 1
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55084, Action: END_GAME, Value: 4
+User: 127.0.0.1:55086, Action: END_GAME, Value: 0
+User: 127.0.0.1:55086, Action: END_GAME, Value: 1
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55086, Action: END_GAME, Value: 4
+User: 127.0.0.1:55085, Action: END_GAME, Value: 0
+User: 127.0.0.1:55085, Action: END_GAME, Value: 1
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55085, Action: END_GAME, Value: 4
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55085, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55085, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55085, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55085, Action: END_GAME, Value: 10
+User: 127.0.0.1:55086, Action: END_GAME, Value: 0
+User: 127.0.0.1:55086, Action: END_GAME, Value: 1
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55086, Action: END_GAME, Value: 4
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55086, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55086, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55086, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55086, Action: END_GAME, Value: 10
+User: 127.0.0.1:55084, Action: END_GAME, Value: 0
+User: 127.0.0.1:55084, Action: END_GAME, Value: 1
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55084, Action: END_GAME, Value: 4
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55084, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55084, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55084, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55084, Action: END_GAME, Value: 10
+User: 127.0.0.1:55085, Action: END_GAME, Value: 0
+User: 127.0.0.1:55085, Action: END_GAME, Value: 1
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55085, Action: END_GAME, Value: 4
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55085, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55085, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55085, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55085, Action: END_GAME, Value: 10
+User: 127.0.0.1:55085, Action: END_GAME, Value: 11
+User: 127.0.0.1:55084, Action: END_GAME, Value: 0
+User: 127.0.0.1:55084, Action: END_GAME, Value: 1
+User: 127.0.0.1:55086, Action: END_GAME, Value: 0
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55086, Action: END_GAME, Value: 1
+User: 127.0.0.1:55084, Action: END_GAME, Value: 4
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55086, Action: END_GAME, Value: 4
+User: 127.0.0.1:55084, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55084, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55086, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55086, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55084, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55084, Action: END_GAME, Value: 10
+User: 127.0.0.1:55086, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55084, Action: END_GAME, Value: 11
+User: 127.0.0.1:55086, Action: END_GAME, Value: 10
+User: 127.0.0.1:55086, Action: END_GAME, Value: 11
+User: 127.0.0.1:55085, Action: END_GAME, Value: 0
+User: 127.0.0.1:55085, Action: END_GAME, Value: 1
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55085, Action: END_GAME, Value: 4
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55085, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55085, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55085, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55085, Action: END_GAME, Value: 10
+User: 127.0.0.1:55085, Action: END_GAME, Value: 11
+User: 127.0.0.1:55085, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55085, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55085, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55085, Action: END_GAME, Value: 15
+User: 127.0.0.1:55084, Action: END_GAME, Value: 0
+User: 127.0.0.1:55084, Action: END_GAME, Value: 1
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55084, Action: END_GAME, Value: 4
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55084, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55084, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55084, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55084, Action: END_GAME, Value: 10
+User: 127.0.0.1:55084, Action: END_GAME, Value: 11
+User: 127.0.0.1:55084, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55084, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55084, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55084, Action: END_GAME, Value: 15
+User: 127.0.0.1:55086, Action: END_GAME, Value: 0
+User: 127.0.0.1:55086, Action: END_GAME, Value: 1
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55086, Action: END_GAME, Value: 4
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55086, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55086, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55086, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55086, Action: END_GAME, Value: 10
+User: 127.0.0.1:55086, Action: END_GAME, Value: 11
+User: 127.0.0.1:55086, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55086, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55086, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55086, Action: END_GAME, Value: 15
+User: 127.0.0.1:55085, Action: END_GAME, Value: 0
+User: 127.0.0.1:55085, Action: END_GAME, Value: 1
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55085, Action: END_GAME, Value: 4
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55085, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55085, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55085, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55085, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55085, Action: END_GAME, Value: 10
+User: 127.0.0.1:55085, Action: END_GAME, Value: 11
+User: 127.0.0.1:55085, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55085, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55085, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55085, Action: END_GAME, Value: 15
+User: 127.0.0.1:55085, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55085, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55085, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55085, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55085, Action: END_GAME, Value: 0
+User: 127.0.0.1:55086, Action: END_GAME, Value: 0
+User: 127.0.0.1:55086, Action: END_GAME, Value: 1
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55086, Action: END_GAME, Value: 4
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55086, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55086, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55086, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55086, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55086, Action: END_GAME, Value: 10
+User: 127.0.0.1:55086, Action: END_GAME, Value: 11
+User: 127.0.0.1:55086, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55086, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55086, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55086, Action: END_GAME, Value: 15
+User: 127.0.0.1:55086, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55086, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55086, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55086, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55086, Action: END_GAME, Value: 0
+User: 127.0.0.1:55084, Action: END_GAME, Value: 0
+User: 127.0.0.1:55084, Action: END_GAME, Value: 1
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55084, Action: END_GAME, Value: 4
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55084, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55084, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55084, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55084, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55084, Action: END_GAME, Value: 10
+User: 127.0.0.1:55084, Action: END_GAME, Value: 11
+User: 127.0.0.1:55084, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55084, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55084, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55084, Action: END_GAME, Value: 15
+User: 127.0.0.1:55084, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55084, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55084, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55084, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55084, Action: END_GAME, Value: 0
+User: 127.0.0.1:55087, Action: END_GAME, Value: 0
+User: 127.0.0.1:55087, Action: END_GAME, Value: 1
+User: 127.0.0.1:55087, Action: END_GAME, Value: 0
+User: 127.0.0.1:55087, Action: END_GAME, Value: 0
+User: 127.0.0.1:55087, Action: END_GAME, Value: 1
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55087, Action: END_GAME, Value: 4
+User: 127.0.0.1:55087, Action: END_GAME, Value: 0
+User: 127.0.0.1:55087, Action: END_GAME, Value: 1
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55087, Action: END_GAME, Value: 4
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55087, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55087, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55087, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55087, Action: END_GAME, Value: 10
+User: 127.0.0.1:55087, Action: END_GAME, Value: 0
+User: 127.0.0.1:55087, Action: END_GAME, Value: 1
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55087, Action: END_GAME, Value: 4
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55087, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55087, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55087, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55087, Action: END_GAME, Value: 10
+User: 127.0.0.1:55087, Action: END_GAME, Value: 11
+User: 127.0.0.1:55087, Action: END_GAME, Value: 0
+User: 127.0.0.1:55087, Action: END_GAME, Value: 1
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55087, Action: END_GAME, Value: 4
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55087, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55087, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55087, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55087, Action: END_GAME, Value: 10
+User: 127.0.0.1:55087, Action: END_GAME, Value: 11
+User: 127.0.0.1:55087, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55087, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55087, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55087, Action: END_GAME, Value: 15
+User: 127.0.0.1:55087, Action: END_GAME, Value: 0
+User: 127.0.0.1:55087, Action: END_GAME, Value: 1
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55087, Action: END_GAME, Value: 4
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55087, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55087, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55087, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55087, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55087, Action: END_GAME, Value: 10
+User: 127.0.0.1:55087, Action: END_GAME, Value: 11
+User: 127.0.0.1:55087, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55087, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55087, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55087, Action: END_GAME, Value: 15
+User: 127.0.0.1:55087, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55087, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55087, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55087, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55087, Action: END_GAME, Value: 0
+User: 127.0.0.1:55088, Action: END_GAME, Value: 0
+User: 127.0.0.1:55088, Action: END_GAME, Value: 0
+User: 127.0.0.1:55088, Action: END_GAME, Value: 1
+User: 127.0.0.1:55089, Action: END_GAME, Value: 0
+User: 127.0.0.1:55089, Action: END_GAME, Value: 0
+User: 127.0.0.1:55089, Action: END_GAME, Value: 1
+User: 127.0.0.1:55088, Action: END_GAME, Value: 0
+User: 127.0.0.1:55088, Action: END_GAME, Value: 1
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55088, Action: END_GAME, Value: 4
+User: 127.0.0.1:55089, Action: END_GAME, Value: 0
+User: 127.0.0.1:55089, Action: END_GAME, Value: 1
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55089, Action: END_GAME, Value: 4
+User: 127.0.0.1:55088, Action: END_GAME, Value: 0
+User: 127.0.0.1:55088, Action: END_GAME, Value: 1
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55088, Action: END_GAME, Value: 4
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55088, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55088, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55088, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55088, Action: END_GAME, Value: 10
+User: 127.0.0.1:55088, Action: END_GAME, Value: 0
+User: 127.0.0.1:55088, Action: END_GAME, Value: 1
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55088, Action: END_GAME, Value: 4
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55088, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55088, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55088, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55088, Action: END_GAME, Value: 10
+User: 127.0.0.1:55088, Action: END_GAME, Value: 11
+User: 127.0.0.1:55089, Action: END_GAME, Value: 0
+User: 127.0.0.1:55089, Action: END_GAME, Value: 1
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55089, Action: END_GAME, Value: 4
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55089, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55089, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55089, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55089, Action: END_GAME, Value: 10
+User: 127.0.0.1:55089, Action: END_GAME, Value: 0
+User: 127.0.0.1:55089, Action: END_GAME, Value: 1
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55089, Action: END_GAME, Value: 4
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55089, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55089, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55089, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55089, Action: END_GAME, Value: 10
+User: 127.0.0.1:55089, Action: END_GAME, Value: 11
+User: 127.0.0.1:55088, Action: END_GAME, Value: 0
+User: 127.0.0.1:55088, Action: END_GAME, Value: 1
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55088, Action: END_GAME, Value: 4
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55088, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55088, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55088, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55088, Action: END_GAME, Value: 10
+User: 127.0.0.1:55088, Action: END_GAME, Value: 11
+User: 127.0.0.1:55088, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55088, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55088, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55088, Action: END_GAME, Value: 15
+User: 127.0.0.1:55089, Action: END_GAME, Value: 0
+User: 127.0.0.1:55089, Action: END_GAME, Value: 1
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55089, Action: END_GAME, Value: 4
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55089, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55089, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55089, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55089, Action: END_GAME, Value: 10
+User: 127.0.0.1:55089, Action: END_GAME, Value: 11
+User: 127.0.0.1:55089, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55089, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55089, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55089, Action: END_GAME, Value: 15
+User: 127.0.0.1:55088, Action: END_GAME, Value: 0
+User: 127.0.0.1:55088, Action: END_GAME, Value: 1
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55088, Action: END_GAME, Value: 4
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55088, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55088, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55088, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55088, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55088, Action: END_GAME, Value: 10
+User: 127.0.0.1:55088, Action: END_GAME, Value: 11
+User: 127.0.0.1:55088, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55088, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55088, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55088, Action: END_GAME, Value: 15
+User: 127.0.0.1:55088, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55088, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55088, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55088, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55088, Action: END_GAME, Value: 0
+User: 127.0.0.1:55090, Action: END_GAME, Value: 0
+User: 127.0.0.1:55090, Action: END_GAME, Value: 0
+User: 127.0.0.1:55090, Action: END_GAME, Value: 1
+User: 127.0.0.1:55089, Action: END_GAME, Value: 0
+User: 127.0.0.1:55089, Action: END_GAME, Value: 1
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55089, Action: END_GAME, Value: 4
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55089, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55089, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55089, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55089, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55089, Action: END_GAME, Value: 10
+User: 127.0.0.1:55089, Action: END_GAME, Value: 11
+User: 127.0.0.1:55089, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55089, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55089, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55089, Action: END_GAME, Value: 15
+User: 127.0.0.1:55089, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55089, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55089, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55089, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55089, Action: END_GAME, Value: 0
+User: 127.0.0.1:55090, Action: END_GAME, Value: 0
+User: 127.0.0.1:55090, Action: END_GAME, Value: 1
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55090, Action: END_GAME, Value: 4
+User: 127.0.0.1:55091, Action: END_GAME, Value: 0
+User: 127.0.0.1:55091, Action: END_GAME, Value: 0
+User: 127.0.0.1:55091, Action: END_GAME, Value: 1
+User: 127.0.0.1:55091, Action: END_GAME, Value: 0
+User: 127.0.0.1:55091, Action: END_GAME, Value: 1
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55091, Action: END_GAME, Value: 4
+User: 127.0.0.1:55092, Action: END_GAME, Value: 0
+User: 127.0.0.1:55093, Action: END_GAME, Value: 0
+User: 127.0.0.1:55091, Action: END_GAME, Value: 0
+User: 127.0.0.1:55091, Action: END_GAME, Value: 1
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55091, Action: END_GAME, Value: 4
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55091, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55091, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55091, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55091, Action: END_GAME, Value: 10
+User: 127.0.0.1:55094, Action: END_GAME, Value: 0
+User: 127.0.0.1:55091, Action: END_GAME, Value: 0
+User: 127.0.0.1:55091, Action: END_GAME, Value: 1
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55091, Action: END_GAME, Value: 4
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55091, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55091, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55091, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55091, Action: END_GAME, Value: 10
+User: 127.0.0.1:55091, Action: END_GAME, Value: 11
+User: 127.0.0.1:55095, Action: END_GAME, Value: 0
+User: 127.0.0.1:55096, Action: END_GAME, Value: 0
+User: 127.0.0.1:55091, Action: END_GAME, Value: 0
+User: 127.0.0.1:55091, Action: END_GAME, Value: 1
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55091, Action: END_GAME, Value: 4
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55091, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55091, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55091, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55091, Action: END_GAME, Value: 10
+User: 127.0.0.1:55091, Action: END_GAME, Value: 11
+User: 127.0.0.1:55091, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55091, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55091, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55091, Action: END_GAME, Value: 15
+User: 127.0.0.1:55091, Action: END_GAME, Value: 0
+User: 127.0.0.1:55091, Action: END_GAME, Value: 1
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55091, Action: END_GAME, Value: 4
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55091, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55091, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55091, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55091, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55091, Action: END_GAME, Value: 10
+User: 127.0.0.1:55091, Action: END_GAME, Value: 11
+User: 127.0.0.1:55091, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55091, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55097, Action: END_GAME, Value: 0
+4
+User: 127.0.0.1:55091, Action: END_GAME, Value: 15
+User: 127.0.0.1:55091, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55091, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55091, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55091, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55092, Action: END_GAME, Value: 0
+User: 127.0.0.1:55091, Action: END_GAME, Value: 0
+User: 127.0.0.1:55092, Action: END_GAME, Value: 1
+User: 127.0.0.1:55093, Action: END_GAME, Value: 0
+User: 127.0.0.1:55093, Action: END_GAME, Value: 1
+User: 127.0.0.1:55094, Action: END_GAME, Value: 0
+User: 127.0.0.1:55094, Action: END_GAME, Value: 1
+User: 127.0.0.1:55095, Action: END_GAME, Value: 0
+User: 127.0.0.1:55095, Action: END_GAME, Value: 1
+User: 127.0.0.1:55096, Action: END_GAME, Value: 0
+User: 127.0.0.1:55096, Action: END_GAME, Value: 1
+User: 127.0.0.1:55097, Action: END_GAME, Value: 0
+User: 127.0.0.1:55097, Action: END_GAME, Value: 1
+User: 127.0.0.1:55090, Action: END_GAME, Value: 0
+User: 127.0.0.1:55090, Action: END_GAME, Value: 1
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55090, Action: END_GAME, Value: 4
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55090, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55090, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55090, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55090, Action: END_GAME, Value: 10
+User: 127.0.0.1:55090, Action: END_GAME, Value: 0
+User: 127.0.0.1:55090, Action: END_GAME, Value: 1
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55090, Action: END_GAME, Value: 4
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55090, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55090, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55090, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55090, Action: END_GAME, Value: 10
+User: 127.0.0.1:55090, Action: END_GAME, Value: 11
+User: 127.0.0.1:55092, Action: END_GAME, Value: 0
+User: 127.0.0.1:55092, Action: END_GAME, Value: 1
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55092, Action: END_GAME, Value: 4
+User: 127.0.0.1:55093, Action: END_GAME, Value: 0
+User: 127.0.0.1:55093, Action: END_GAME, Value: 1
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55093, Action: END_GAME, Value: 4
+User: 127.0.0.1:55094, Action: END_GAME, Value: 0
+User: 127.0.0.1:55094, Action: END_GAME, Value: 1
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55094, Action: END_GAME, Value: 4
+User: 127.0.0.1:55095, Action: END_GAME, Value: 0
+User: 127.0.0.1:55095, Action: END_GAME, Value: 1
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55095, Action: END_GAME, Value: 4
+User: 127.0.0.1:55098, Action: END_GAME, Value: 0
+User: 127.0.0.1:55096, Action: END_GAME, Value: 1
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55096, Action: END_GAME, Value: 4
+User: 127.0.0.1:55098, Action: END_GAME, Value: 0
+User: 127.0.0.1:55098, Action: END_GAME, Value: 1
+User: 127.0.0.1:55097, Action: END_GAME, Value: 0
+User: 127.0.0.1:55097, Action: END_GAME, Value: 1
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55097, Action: END_GAME, Value: 4
+User: 127.0.0.1:55098, Action: END_GAME, Value: 0
+User: 127.0.0.1:55098, Action: END_GAME, Value: 1
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55098, Action: END_GAME, Value: 4
+User: 127.0.0.1:55098, Action: END_GAME, Value: 0
+User: 127.0.0.1:55098, Action: END_GAME, Value: 1
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55098, Action: END_GAME, Value: 4
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55098, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55098, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55098, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55098, Action: END_GAME, Value: 10
+User: 127.0.0.1:55098, Action: END_GAME, Value: 0
+User: 127.0.0.1:55098, Action: END_GAME, Value: 1
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55098, Action: END_GAME, Value: 4
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55098, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55098, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55098, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55098, Action: END_GAME, Value: 10
+User: 127.0.0.1:55098, Action: END_GAME, Value: 11
+User: 127.0.0.1:55099, Action: END_GAME, Value: 0
+User: 127.0.0.1:55098, Action: END_GAME, Value: 0
+User: 127.0.0.1:55098, Action: END_GAME, Value: 1
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55098, Action: END_GAME, Value: 4
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55098, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55098, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55098, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55098, Action: END_GAME, Value: 10
+User: 127.0.0.1:55098, Action: END_GAME, Value: 11
+User: 127.0.0.1:55098, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55098, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55098, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55098, Action: END_GAME, Value: 15
+User: 127.0.0.1:55098, Action: END_GAME, Value: 0
+User: 127.0.0.1:55098, Action: END_GAME, Value: 1
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55098, Action: END_GAME, Value: 4
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55098, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55098, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55098, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55098, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55098, Action: END_GAME, Value: 10
+User: 127.0.0.1:55098, Action: END_GAME, Value: 11
+User: 127.0.0.1:55098, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55098, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55098, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55098, Action: END_GAME, Value: 15
+User: 127.0.0.1:55098, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55098, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55098, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55098, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55098, Action: END_GAME, Value: 0
+User: 127.0.0.1:55100, Action: END_GAME, Value: 0
+User: 127.0.0.1:55099, Action: END_GAME, Value: 0
+User: 127.0.0.1:55100, Action: END_GAME, Value: 0
+User: 127.0.0.1:55099, Action: END_GAME, Value: 1
+User: 127.0.0.1:55100, Action: END_GAME, Value: 1
+User: 127.0.0.1:55090, Action: END_GAME, Value: 0
+User: 127.0.0.1:55090, Action: END_GAME, Value: 1
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55090, Action: END_GAME, Value: 4
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55090, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55090, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55090, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55090, Action: END_GAME, Value: 10
+User: 127.0.0.1:55090, Action: END_GAME, Value: 11
+User: 127.0.0.1:55090, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55090, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55090, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55090, Action: END_GAME, Value: 15
+User: 127.0.0.1:55099, Action: END_GAME, Value: 0
+User: 127.0.0.1:55099, Action: END_GAME, Value: 1
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55099, Action: END_GAME, Value: 4
+User: 127.0.0.1:55100, Action: END_GAME, Value: 0
+User: 127.0.0.1:55100, Action: END_GAME, Value: 1
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55100, Action: END_GAME, Value: 4
+User: 127.0.0.1:55092, Action: END_GAME, Value: 0
+User: 127.0.0.1:55092, Action: END_GAME, Value: 1
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55092, Action: END_GAME, Value: 4
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55092, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55092, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55092, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55092, Action: END_GAME, Value: 10
+User: 127.0.0.1:55095, Action: END_GAME, Value: 0
+User: 127.0.0.1:55095, Action: END_GAME, Value: 1
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55095, Action: END_GAME, Value: 4
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55095, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55095, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55095, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55095, Action: END_GAME, Value: 10
+User: 127.0.0.1:55096, Action: END_GAME, Value: 0
+User: 127.0.0.1:55096, Action: END_GAME, Value: 1
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55096, Action: END_GAME, Value: 4
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55096, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55096, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55096, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55096, Action: END_GAME, Value: 10
+User: 127.0.0.1:55093, Action: END_GAME, Value: 0
+User: 127.0.0.1:55093, Action: END_GAME, Value: 1
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55094, Action: END_GAME, Value: 0
+User: 127.0.0.1:55094, Action: END_GAME, Value: 1
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55094, Action: END_GAME, Value: 4
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55094, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55094, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55094, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55094, Action: END_GAME, Value: 10
+User: 127.0.0.1:55093, Action: END_GAME, Value: 4
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55097, Action: END_GAME, Value: 0
+User: 127.0.0.1:55093, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55097, Action: END_GAME, Value: 1
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 2
+
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55097, Action: END_GAME, Value: 4
+
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55093, Action: END_GAME, Value: 10
+User: 127.0.0.1:55097, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55097, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55097, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55097, Action: END_GAME, Value: 10
+User: 127.0.0.1:55092, Action: END_GAME, Value: 0
+User: 127.0.0.1:55092, Action: END_GAME, Value: 1
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55092, Action: END_GAME, Value: 4
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55092, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55092, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55092, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55092, Action: END_GAME, Value: 10
+User: 127.0.0.1:55092, Action: END_GAME, Value: 11
+User: 127.0.0.1:55096, Action: END_GAME, Value: 0
+User: 127.0.0.1:55096, Action: END_GAME, Value: 1
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55096, Action: END_GAME, Value: 4
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55096, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55096, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55096, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55096, Action: END_GAME, Value: 10
+User: 127.0.0.1:55096, Action: END_GAME, Value: 11
+User: 127.0.0.1:55093, Action: END_GAME, Value: 0
+User: 127.0.0.1:55093, Action: END_GAME, Value: 1
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55093, Action: END_GAME, Value: 4
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55093, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55093, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55093, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55093, Action: END_GAME, Value: 10
+User: 127.0.0.1:55093, Action: END_GAME, Value: 11
+User: 127.0.0.1:55095, Action: END_GAME, Value: 0
+User: 127.0.0.1:55095, Action: END_GAME, Value: 1
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55095, Action: END_GAME, Value: 4
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55095, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55095, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55095, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55095, Action: END_GAME, Value: 10
+User: 127.0.0.1:55095, Action: END_GAME, Value: 11
+User: 127.0.0.1:55094, Action: END_GAME, Value: 0
+User: 127.0.0.1:55097, Action: END_GAME, Value: 1
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55094, Action: END_GAME, Value: 1
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55097, Action: END_GAME, Value: 4
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55094, Action: END_GAME, Value: 4
+User: 127.0.0.1:55097, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55097, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55094, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55094, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55097, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55097, Action: END_GAME, Value: 10
+User: 127.0.0.1:55094, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55097, Action: END_GAME, Value: 11
+User: 127.0.0.1:55094, Action: END_GAME, Value: 10
+User: 127.0.0.1:55094, Action: END_GAME, Value: 11
+User: 127.0.0.1:55090, Action: END_GAME, Value: 0
+User: 127.0.0.1:55090, Action: END_GAME, Value: 1
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55090, Action: END_GAME, Value: 4
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55090, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55090, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55090, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55090, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55090, Action: END_GAME, Value: 10
+User: 127.0.0.1:55090, Action: END_GAME, Value: 11
+User: 127.0.0.1:55090, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55090, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55090, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55090, Action: END_GAME, Value: 15
+User: 127.0.0.1:55090, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55090, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55090, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55090, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55090, Action: END_GAME, Value: 0
+User: 127.0.0.1:55092, Action: END_GAME, Value: 0
+User: 127.0.0.1:55092, Action: END_GAME, Value: 1
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55092, Action: END_GAME, Value: 4
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55092, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55092, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55092, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55092, Action: END_GAME, Value: 10
+User: 127.0.0.1:55092, Action: END_GAME, Value: 11
+User: 127.0.0.1:55092, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55092, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55092, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55092, Action: END_GAME, Value: 15
+User: 127.0.0.1:55096, Action: END_GAME, Value: 0
+User: 127.0.0.1:55095, Action: END_GAME, Value: 0
+User: 127.0.0.1:55096, Action: END_GAME, Value: 1
+User: 127.0.0.1:55095, Action: END_GAME, Value: 1
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55096, Action: END_GAME, Value: 4
+User: 127.0.0.1:55095, Action: END_GAME, Value: 4
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55096, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55095, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55096, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55095, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55096, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55095, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55096, Action: END_GAME, Value: 10
+User: 127.0.0.1:55095, Action: END_GAME, Value: 10
+User: 127.0.0.1:55096, Action: END_GAME, Value: 11
+User: 127.0.0.1:55095, Action: END_GAME, Value: 11
+User: 127.0.0.1:55096, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55095, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55096, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55095, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55096, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55095, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55095, Action: END_GAME, Value: 15
+User: 127.0.0.1:55096, Action: END_GAME, Value: 15
+User: 127.0.0.1:55099, Action: END_GAME, Value: 0
+User: 127.0.0.1:55099, Action: END_GAME, Value: 1
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55099, Action: END_GAME, Value: 4
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55099, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55099, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55099, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55099, Action: END_GAME, Value: 10
+User: 127.0.0.1:55093, Action: END_GAME, Value: 0
+User: 127.0.0.1:55093, Action: END_GAME, Value: 1
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55093, Action: END_GAME, Value: 4
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55093, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55093, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55093, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55093, Action: END_GAME, Value: 10
+User: 127.0.0.1:55093, Action: END_GAME, Value: 11
+User: 127.0.0.1:55093, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55093, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55093, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55093, Action: END_GAME, Value: 15
+User: 127.0.0.1:55094, Action: END_GAME, Value: 0
+User: 127.0.0.1:55094, Action: END_GAME, Value: 1
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55094, Action: END_GAME, Value: 4
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55094, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55094, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55097, Action: END_GAME, Value: 0
+
+User: 127.0.0.1:55097, Action: END_GAME, Value: 1
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55094, Action: END_GAME, Value: 10
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55097, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55094, Action: END_GAME, Value: 11
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55097, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55094, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55097, Action: END_GAME, Value: 11
+User: 127.0.0.1:55094, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55097, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55094, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55097, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55094, Action: END_GAME, Value: 15
+User: 127.0.0.1:55097, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55097, Action: END_GAME, Value: 15
+User: 127.0.0.1:55100, Action: END_GAME, Value: 0
+User: 127.0.0.1:55100, Action: END_GAME, Value: 1
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55099, Action: END_GAME, Value: 0
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55099, Action: END_GAME, Value: 1
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55099, Action: END_GAME, Value: 4
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55099, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55099, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55099, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55100, Action: END_GAME, Value: 4
+
+User: 127.0.0.1:55099, Action: END_GAME, Value: 11
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55100, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55100, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55100, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55100, Action: END_GAME, Value: 10
+User: 127.0.0.1:55100, Action: END_GAME, Value: 0
+User: 127.0.0.1:55100, Action: END_GAME, Value: 1
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55100, Action: END_GAME, Value: 4
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55100, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55100, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55100, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55100, Action: END_GAME, Value: 10
+User: 127.0.0.1:55100, Action: END_GAME, Value: 11
+User: 127.0.0.1:55095, Action: END_GAME, Value: 0
+User: 127.0.0.1:55095, Action: END_GAME, Value: 1
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55095, Action: END_GAME, Value: 4
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55095, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55095, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55095, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55095, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55095, Action: END_GAME, Value: 10
+User: 127.0.0.1:55095, Action: END_GAME, Value: 11
+User: 127.0.0.1:55095, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55095, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55095, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55095, Action: END_GAME, Value: 15
+User: 127.0.0.1:55095, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55095, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55095, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55095, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55095, Action: END_GAME, Value: 0
+User: 127.0.0.1:55092, Action: END_GAME, Value: 0
+User: 127.0.0.1:55092, Action: END_GAME, Value: 1
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55092, Action: END_GAME, Value: 4
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55092, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55092, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55092, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55092, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55092, Action: END_GAME, Value: 10
+User: 127.0.0.1:55092, Action: END_GAME, Value: 11
+User: 127.0.0.1:55092, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55092, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55092, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55092, Action: END_GAME, Value: 15
+User: 127.0.0.1:55092, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55092, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55092, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55092, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55092, Action: END_GAME, Value: 0
+User: 127.0.0.1:55093, Action: END_GAME, Value: 0
+User: 127.0.0.1:55093, Action: END_GAME, Value: 1
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55093, Action: END_GAME, Value: 4
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55093, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55093, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55093, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55093, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55093, Action: END_GAME, Value: 10
+User: 127.0.0.1:55093, Action: END_GAME, Value: 11
+User: 127.0.0.1:55093, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55093, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55093, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55093, Action: END_GAME, Value: 15
+User: 127.0.0.1:55093, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55093, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55093, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55093, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55093, Action: END_GAME, Value: 0
+User: 127.0.0.1:55099, Action: END_GAME, Value: 0
+User: 127.0.0.1:55099, Action: END_GAME, Value: 1
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55099, Action: END_GAME, Value: 4
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55099, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55099, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55099, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55099, Action: END_GAME, Value: 10
+User: 127.0.0.1:55099, Action: END_GAME, Value: 11
+User: 127.0.0.1:55099, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55099, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55099, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55099, Action: END_GAME, Value: 15
+User: 127.0.0.1:55096, Action: END_GAME, Value: 0
+User: 127.0.0.1:55096, Action: END_GAME, Value: 1
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55096, Action: END_GAME, Value: 4
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55096, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55096, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55096, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55096, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55096, Action: END_GAME, Value: 10
+User: 127.0.0.1:55096, Action: END_GAME, Value: 11
+User: 127.0.0.1:55096, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55096, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55096, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55096, Action: END_GAME, Value: 15
+User: 127.0.0.1:55096, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55096, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55096, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55096, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55096, Action: END_GAME, Value: 0
+User: 127.0.0.1:55097, Action: END_GAME, Value: 0
+User: 127.0.0.1:55094, Action: END_GAME, Value: 0
+User: 127.0.0.1:55097, Action: END_GAME, Value: 1
+User: 127.0.0.1:55094, Action: END_GAME, Value: 1
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55094, Action: END_GAME, Value: 4
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55094, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55094, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55094, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55094, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55094, Action: END_GAME, Value: 10
+User: 127.0.0.1:55094, Action: END_GAME, Value: 11
+User: 127.0.0.1:55094, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 3
+
+User: 127.0.0.1:55094, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55097, Action: END_GAME, Value: 4
+
+User: 127.0.0.1:55094, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55094, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55094, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55094, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55097, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55094, Action: END_GAME, Value: 0
+User: 127.0.0.1:55097, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55100, Action: END_GAME, Value: 0
+User: 127.0.0.1:55097, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55100, Action: END_GAME, Value: 1
+User: 127.0.0.1:55097, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55097, Action: END_GAME, Value: 10
+User: 127.0.0.1:55100, Action: END_GAME, Value: 4
+User: 127.0.0.1:55097, Action: END_GAME, Value: 11
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55097, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55100, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55097, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55100, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55097, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55097, Action: END_GAME, Value: 15
+User: 127.0.0.1:55100, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55097, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55100, Action: END_GAME, Value: 10
+User: 127.0.0.1:55097, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55100, Action: END_GAME, Value: 11
+User: 127.0.0.1:55097, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55097, Action: OPEN_GAME, Value: 19
+
+User: 127.0.0.1:55100, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55100, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55100, Action: END_GAME, Value: 15
+User: 127.0.0.1:55099, Action: END_GAME, Value: 0
+User: 127.0.0.1:55099, Action: END_GAME, Value: 1
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55099, Action: END_GAME, Value: 4
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55099, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55099, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55099, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55099, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55099, Action: END_GAME, Value: 10
+User: 127.0.0.1:55099, Action: END_GAME, Value: 11
+User: 127.0.0.1:55099, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55099, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55099, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55099, Action: END_GAME, Value: 15
+User: 127.0.0.1:55099, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55099, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55099, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55099, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55099, Action: END_GAME, Value: 0
+User: 127.0.0.1:55100, Action: END_GAME, Value: 0
+User: 127.0.0.1:55100, Action: END_GAME, Value: 1
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:55100, Action: END_GAME, Value: 4
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:55100, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:55100, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:55100, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:55100, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:55100, Action: END_GAME, Value: 10
+User: 127.0.0.1:55100, Action: END_GAME, Value: 11
+User: 127.0.0.1:55100, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:55100, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:55100, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:55100, Action: END_GAME, Value: 15
+User: 127.0.0.1:55100, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:55100, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:55100, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:55100, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:55100, Action: END_GAME, Value: 0
+User: 127.0.0.1:60338, Action: END_GAME, Value: 0
+User: 127.0.0.1:60338, Action: END_GAME, Value: 1
+User: 127.0.0.1:60338, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60338, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60338, Action: END_GAME, Value: 4
+User: 127.0.0.1:60338, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60338, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60338, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60338, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60338, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60338, Action: END_GAME, Value: 10
+User: 127.0.0.1:60338, Action: END_GAME, Value: 11
+User: 127.0.0.1:60338, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60338, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60338, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60338, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60338, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60338, Action: END_GAME, Value: 15
+User: 127.0.0.1:60338, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60338, Action: END_GAME, Value: 0
+User: 127.0.0.1:60339, Action: END_GAME, Value: 0
+User: 127.0.0.1:60339, Action: END_GAME, Value: 1
+User: 127.0.0.1:60340, Action: END_GAME, Value: 0
+User: 127.0.0.1:60342, Action: END_GAME, Value: 0
+User: 127.0.0.1:60342, Action: END_GAME, Value: 1
+User: 127.0.0.1:60340, Action: END_GAME, Value: 1
+User: 127.0.0.1:60342, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60342, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60342, Action: END_GAME, Value: 4
+User: 127.0.0.1:60340, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60340, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60340, Action: END_GAME, Value: 4
+User: 127.0.0.1:60342, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60342, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60342, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60342, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60342, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60342, Action: END_GAME, Value: 10
+User: 127.0.0.1:60340, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60340, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60340, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60340, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60340, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60340, Action: END_GAME, Value: 10
+User: 127.0.0.1:60342, Action: END_GAME, Value: 11
+User: 127.0.0.1:60340, Action: END_GAME, Value: 11
+User: 127.0.0.1:60343, Action: END_GAME, Value: 0
+User: 127.0.0.1:60344, Action: END_GAME, Value: 0
+User: 127.0.0.1:60345, Action: END_GAME, Value: 0
+User: 127.0.0.1:60346, Action: END_GAME, Value: 0
+User: 127.0.0.1:60343, Action: END_GAME, Value: 1
+User: 127.0.0.1:60344, Action: END_GAME, Value: 1
+User: 127.0.0.1:60345, Action: END_GAME, Value: 1
+User: 127.0.0.1:60346, Action: END_GAME, Value: 1
+User: 127.0.0.1:60339, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60339, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60339, Action: END_GAME, Value: 4
+User: 127.0.0.1:60347, Action: END_GAME, Value: 0
+User: 127.0.0.1:60342, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60342, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60342, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60342, Action: END_GAME, Value: 15
+User: 127.0.0.1:60340, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60340, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60340, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60340, Action: END_GAME, Value: 15
+User: 127.0.0.1:60348, Action: END_GAME, Value: 0
+User: 127.0.0.1:60349, Action: END_GAME, Value: 0
+User: 127.0.0.1:60347, Action: END_GAME, Value: 1
+User: 127.0.0.1:60350, Action: END_GAME, Value: 0
+User: 127.0.0.1:60343, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60343, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60343, Action: END_GAME, Value: 4
+User: 127.0.0.1:60351, Action: END_GAME, Value: 0
+User: 127.0.0.1:60344, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60344, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60344, Action: END_GAME, Value: 4
+User: 127.0.0.1:60345, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60345, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60345, Action: END_GAME, Value: 4
+User: 127.0.0.1:60348, Action: END_GAME, Value: 1
+User: 127.0.0.1:60349, Action: END_GAME, Value: 1
+User: 127.0.0.1:60346, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60346, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60346, Action: END_GAME, Value: 4
+User: 127.0.0.1:60350, Action: END_GAME, Value: 1
+User: 127.0.0.1:60351, Action: END_GAME, Value: 1
+User: 127.0.0.1:60347, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60347, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60347, Action: END_GAME, Value: 4
+User: 127.0.0.1:60352, Action: END_GAME, Value: 0
+User: 127.0.0.1:60348, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60348, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60348, Action: END_GAME, Value: 4
+User: 127.0.0.1:60349, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60349, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60349, Action: END_GAME, Value: 4
+User: 127.0.0.1:60350, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60350, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60350, Action: END_GAME, Value: 4
+User: 127.0.0.1:60339, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60339, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60339, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60339, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60339, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60339, Action: END_GAME, Value: 10
+User: 127.0.0.1:60352, Action: END_GAME, Value: 1
+User: 127.0.0.1:60342, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60342, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60342, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60342, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60342, Action: END_GAME, Value: 0
+User: 127.0.0.1:60351, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60351, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60351, Action: END_GAME, Value: 4
+User: 127.0.0.1:60340, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60340, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60340, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60340, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60340, Action: END_GAME, Value: 0
+User: 127.0.0.1:60339, Action: END_GAME, Value: 11
+User: 127.0.0.1:60343, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60343, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60343, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60343, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60343, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60343, Action: END_GAME, Value: 10
+User: 127.0.0.1:60345, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60345, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60345, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60345, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60345, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60345, Action: END_GAME, Value: 10
+User: 127.0.0.1:60344, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60344, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60344, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60344, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60344, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60344, Action: END_GAME, Value: 10
+User: 127.0.0.1:60353, Action: END_GAME, Value: 0
+User: 127.0.0.1:60354, Action: END_GAME, Value: 0
+User: 127.0.0.1:60355, Action: END_GAME, Value: 0
+User: 127.0.0.1:60356, Action: END_GAME, Value: 0
+User: 127.0.0.1:60346, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60346, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60346, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60346, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60346, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60346, Action: END_GAME, Value: 10
+User: 127.0.0.1:60352, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60352, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60352, Action: END_GAME, Value: 4
+User: 127.0.0.1:60343, Action: END_GAME, Value: 11
+User: 127.0.0.1:60345, Action: END_GAME, Value: 11
+User: 127.0.0.1:60344, Action: END_GAME, Value: 11
+User: 127.0.0.1:60353, Action: END_GAME, Value: 1
+User: 127.0.0.1:60355, Action: END_GAME, Value: 1
+User: 127.0.0.1:60354, Action: END_GAME, Value: 1
+User: 127.0.0.1:60357, Action: END_GAME, Value: 0
+User: 127.0.0.1:60356, Action: END_GAME, Value: 1
+User: 127.0.0.1:60346, Action: END_GAME, Value: 11
+User: 127.0.0.1:60358, Action: END_GAME, Value: 0
+User: 127.0.0.1:60359, Action: END_GAME, Value: 0
+User: 127.0.0.1:60357, Action: END_GAME, Value: 1
+User: 127.0.0.1:60347, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60347, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60347, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60347, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60347, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60347, Action: END_GAME, Value: 10
+User: 127.0.0.1:60339, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60339, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60339, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60339, Action: END_GAME, Value: 15
+User: 127.0.0.1:60358, Action: END_GAME, Value: 1
+User: 127.0.0.1:60359, Action: END_GAME, Value: 1
+User: 127.0.0.1:60348, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60348, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60348, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60348, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60348, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60348, Action: END_GAME, Value: 10
+User: 127.0.0.1:60347, Action: END_GAME, Value: 11
+User: 127.0.0.1:60350, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60350, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60350, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60350, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60350, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60350, Action: END_GAME, Value: 10
+User: 127.0.0.1:60349, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60349, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60349, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60349, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60349, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60349, Action: END_GAME, Value: 10
+User: 127.0.0.1:60351, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60351, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60351, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60351, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60351, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60351, Action: END_GAME, Value: 10
+User: 127.0.0.1:60354, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60354, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60354, Action: END_GAME, Value: 4
+User: 127.0.0.1:60348, Action: END_GAME, Value: 11
+User: 127.0.0.1:60353, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60353, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60353, Action: END_GAME, Value: 4
+User: 127.0.0.1:60356, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60356, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60356, Action: END_GAME, Value: 4
+User: 127.0.0.1:60350, Action: END_GAME, Value: 11
+User: 127.0.0.1:60349, Action: END_GAME, Value: 11
+User: 127.0.0.1:60355, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60355, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60355, Action: END_GAME, Value: 4
+User: 127.0.0.1:60343, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60343, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60343, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60343, Action: END_GAME, Value: 15
+User: 127.0.0.1:60344, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60344, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60344, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60344, Action: END_GAME, Value: 15
+User: 127.0.0.1:60345, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60345, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60345, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60345, Action: END_GAME, Value: 15
+User: 127.0.0.1:60351, Action: END_GAME, Value: 11
+User: 127.0.0.1:60357, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60357, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60357, Action: END_GAME, Value: 4
+User: 127.0.0.1:60346, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60346, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60346, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60346, Action: END_GAME, Value: 15
+User: 127.0.0.1:60358, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60358, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60358, Action: END_GAME, Value: 4
+User: 127.0.0.1:60359, Action: BUY_ITEM, Value: 2
+User: 127.0.0.1:60359, Action: BUY_ITEM, Value: 3
+User: 127.0.0.1:60359, Action: END_GAME, Value: 4
+User: 127.0.0.1:60352, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60352, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60352, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60352, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60352, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60352, Action: END_GAME, Value: 10
+User: 127.0.0.1:60347, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60347, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60347, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60347, Action: END_GAME, Value: 15
+User: 127.0.0.1:60352, Action: END_GAME, Value: 11
+User: 127.0.0.1:60339, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60339, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60339, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60339, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60339, Action: END_GAME, Value: 0
+User: 127.0.0.1:60348, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60348, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60348, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60348, Action: END_GAME, Value: 15
+User: 127.0.0.1:60350, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60350, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60350, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60350, Action: END_GAME, Value: 15
+User: 127.0.0.1:60349, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60349, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60349, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60349, Action: END_GAME, Value: 15
+User: 127.0.0.1:60351, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60351, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60351, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60351, Action: END_GAME, Value: 15
+User: 127.0.0.1:60343, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60343, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60343, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60343, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60343, Action: END_GAME, Value: 0
+User: 127.0.0.1:60345, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60345, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60345, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60345, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60345, Action: END_GAME, Value: 0
+User: 127.0.0.1:60344, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60344, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60344, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60344, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60344, Action: END_GAME, Value: 0
+User: 127.0.0.1:60353, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60353, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60353, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60353, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60353, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60353, Action: END_GAME, Value: 10
+User: 127.0.0.1:60354, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60354, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60354, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60354, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60354, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60354, Action: END_GAME, Value: 10
+User: 127.0.0.1:60355, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60355, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60355, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60355, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60355, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60355, Action: END_GAME, Value: 10
+User: 127.0.0.1:60356, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60356, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60356, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60356, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60356, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60356, Action: END_GAME, Value: 10
+User: 127.0.0.1:60346, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60346, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60346, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60346, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60346, Action: END_GAME, Value: 0
+User: 127.0.0.1:60353, Action: END_GAME, Value: 11
+User: 127.0.0.1:60354, Action: END_GAME, Value: 11
+User: 127.0.0.1:60357, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60357, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60357, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60357, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60357, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60357, Action: END_GAME, Value: 10
+User: 127.0.0.1:60355, Action: END_GAME, Value: 11
+User: 127.0.0.1:60356, Action: END_GAME, Value: 11
+User: 127.0.0.1:60352, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60352, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60352, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60352, Action: END_GAME, Value: 15
+User: 127.0.0.1:60358, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60358, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60358, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60358, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60358, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60358, Action: END_GAME, Value: 10
+User: 127.0.0.1:60359, Action: BUY_ITEM, Value: 5
+User: 127.0.0.1:60359, Action: OPEN_GAME, Value: 6
+User: 127.0.0.1:60359, Action: OPEN_GAME, Value: 7
+User: 127.0.0.1:60359, Action: BUY_ITEM, Value: 8
+User: 127.0.0.1:60359, Action: END_LEVEL, Value: 9
+User: 127.0.0.1:60359, Action: END_GAME, Value: 10
+User: 127.0.0.1:60357, Action: END_GAME, Value: 11
+User: 127.0.0.1:60347, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60347, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60347, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60347, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60347, Action: END_GAME, Value: 0
+User: 127.0.0.1:60358, Action: END_GAME, Value: 11
+User: 127.0.0.1:60359, Action: END_GAME, Value: 11
+User: 127.0.0.1:60348, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60348, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60348, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60348, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60348, Action: END_GAME, Value: 0
+User: 127.0.0.1:60349, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60349, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60349, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60349, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60349, Action: END_GAME, Value: 0
+User: 127.0.0.1:60350, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60350, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60350, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60350, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60350, Action: END_GAME, Value: 0
+User: 127.0.0.1:60351, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60351, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60351, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60351, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60351, Action: END_GAME, Value: 0
+User: 127.0.0.1:60353, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60353, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60353, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60353, Action: END_GAME, Value: 15
+User: 127.0.0.1:60354, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60354, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60354, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60354, Action: END_GAME, Value: 15
+User: 127.0.0.1:60356, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60356, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60356, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60356, Action: END_GAME, Value: 15
+User: 127.0.0.1:60355, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60355, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60355, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60355, Action: END_GAME, Value: 15
+User: 127.0.0.1:60357, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60357, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60357, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60357, Action: END_GAME, Value: 15
+User: 127.0.0.1:60352, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60352, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60352, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60352, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60352, Action: END_GAME, Value: 0
+User: 127.0.0.1:60358, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60358, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60358, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60358, Action: END_GAME, Value: 15
+User: 127.0.0.1:60359, Action: BEGIN_GAME, Value: 12
+User: 127.0.0.1:60359, Action: LOSE_LIFE, Value: 13
+User: 127.0.0.1:60359, Action: BEGIN_GAME, Value: 14
+User: 127.0.0.1:60359, Action: END_GAME, Value: 15
+User: 127.0.0.1:60353, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60353, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60353, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60353, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60353, Action: END_GAME, Value: 0
+User: 127.0.0.1:60354, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60354, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60354, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60354, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60354, Action: END_GAME, Value: 0
+User: 127.0.0.1:60356, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60356, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60356, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60356, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60356, Action: END_GAME, Value: 0
+User: 127.0.0.1:60355, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60355, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60355, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60355, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60355, Action: END_GAME, Value: 0
+User: 127.0.0.1:60357, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60357, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60357, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60357, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60357, Action: END_GAME, Value: 0
+User: 127.0.0.1:60358, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60358, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60358, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60358, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60358, Action: END_GAME, Value: 0
+User: 127.0.0.1:60359, Action: BEGIN_GAME, Value: 16
+User: 127.0.0.1:60359, Action: END_LEVEL, Value: 17
+User: 127.0.0.1:60359, Action: LOSE_LIFE, Value: 18
+User: 127.0.0.1:60359, Action: OPEN_GAME, Value: 19
+User: 127.0.0.1:60359, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:30 2014
+, WrTime: Tue Dec 23 13:17:30 2014
+, User: 127.0.0.1:59238, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59241, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59240, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59242, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59243, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59249, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59250, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59245, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59244, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59246, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59247, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59248, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59252, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59251, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59253, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59255, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59254, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59256, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59258, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59257, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:17:35 2014
+, WrTime: Tue Dec 23 13:17:35 2014
+, User: 127.0.0.1:59259, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: BUY_ITEM, Value: 3
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:19:26 2014
+, WrTime: Tue Dec 23 13:19:26 2014
+, User: 127.0.0.1:58561, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: END_GAME, Value: 0
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: BUY_ITEM, Value: 2
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: END_GAME, Value: 1
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: END_GAME, Value: 4
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: BUY_ITEM, Value: 5
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: OPEN_GAME, Value: 6
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: OPEN_GAME, Value: 7
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: BUY_ITEM, Value: 8
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: END_LEVEL, Value: 9
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: END_GAME, Value: 10
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: END_GAME, Value: 11
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: BEGIN_GAME, Value: 12
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: LOSE_LIFE, Value: 13
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: BEGIN_GAME, Value: 14
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: END_GAME, Value: 15
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: BEGIN_GAME, Value: 16
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: END_LEVEL, Value: 17
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: LOSE_LIFE, Value: 18
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: OPEN_GAME, Value: 19
+RecTime: Tue Dec 23 13:23:08 2014
+, WrTime: Tue Dec 23 13:23:08 2014
+, User: 127.0.0.1:53645, Action: END_GAME, Value: 0
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: END_GAME, Value: 0
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: END_GAME, Value: 1
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: BUY_ITEM, Value: 2
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: BUY_ITEM, Value: 3
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: END_GAME, Value: 4
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: BUY_ITEM, Value: 5
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: OPEN_GAME, Value: 6
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: OPEN_GAME, Value: 7
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: BUY_ITEM, Value: 8
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: END_LEVEL, Value: 9
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: END_GAME, Value: 10
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: END_GAME, Value: 11
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: BEGIN_GAME, Value: 12
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: LOSE_LIFE, Value: 13
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: BEGIN_GAME, Value: 14
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: END_GAME, Value: 15
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: BEGIN_GAME, Value: 16
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: END_LEVEL, Value: 17
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: LOSE_LIFE, Value: 18
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: OPEN_GAME, Value: 19
+RecTime: 1419337424, WrTime: 1419337424, User: 127.0.0.1:51139, Action: END_GAME, Value: 0
+RecTime: 1419337956171, WrTime: 1419337956172, User: 127.0.0.1:53768, Action: END_GAME, Value: 0
+RecTime: 1419337956172, WrTime: 1419337956173, User: 127.0.0.1:53768, Action: END_GAME, Value: 1
+RecTime: 1419337956172, WrTime: 1419337956173, User: 127.0.0.1:53768, Action: BUY_ITEM, Value: 2
+RecTime: 1419337956172, WrTime: 1419337956174, User: 127.0.0.1:53768, Action: BUY_ITEM, Value: 3
+RecTime: 1419337956173, WrTime: 1419337956174, User: 127.0.0.1:53768, Action: END_GAME, Value: 4
+RecTime: 1419337956174, WrTime: 1419337956176, User: 127.0.0.1:53768, Action: BUY_ITEM, Value: 5
+RecTime: 1419337956174, WrTime: 1419337956176, User: 127.0.0.1:53768, Action: OPEN_GAME, Value: 6
+RecTime: 1419337956175, WrTime: 1419337956176, User: 127.0.0.1:53768, Action: OPEN_GAME, Value: 7
+RecTime: 1419337956175, WrTime: 1419337956176, User: 127.0.0.1:53768, Action: BUY_ITEM, Value: 8
+RecTime: 1419337956175, WrTime: 1419337956176, User: 127.0.0.1:53768, Action: END_LEVEL, Value: 9
+RecTime: 1419337956175, WrTime: 1419337956176, User: 127.0.0.1:53768, Action: END_GAME, Value: 10
+RecTime: 1419337956176, WrTime: 1419337956176, User: 127.0.0.1:53768, Action: END_GAME, Value: 11
+RecTime: 1419337956177, WrTime: 1419337956179, User: 127.0.0.1:53768, Action: BEGIN_GAME, Value: 12
+RecTime: 1419337956177, WrTime: 1419337956179, User: 127.0.0.1:53768, Action: LOSE_LIFE, Value: 13
+RecTime: 1419337956178, WrTime: 1419337956179, User: 127.0.0.1:53768, Action: BEGIN_GAME, Value: 14
+RecTime: 1419337956178, WrTime: 1419337956179, User: 127.0.0.1:53768, Action: END_GAME, Value: 15
+RecTime: 1419337956179, WrTime: 1419337956181, User: 127.0.0.1:53768, Action: BEGIN_GAME, Value: 16
+RecTime: 1419337956179, WrTime: 1419337956181, User: 127.0.0.1:53768, Action: END_LEVEL, Value: 17
+RecTime: 1419337956180, WrTime: 1419337956181, User: 127.0.0.1:53768, Action: LOSE_LIFE, Value: 18
+RecTime: 1419337956180, WrTime: 1419337956181, User: 127.0.0.1:53768, Action: OPEN_GAME, Value: 19
+RecTime: 1419337956180, WrTime: 1419337956181, User: 127.0.0.1:53768, Action: END_GAME, Value: 0
