@@ -102,7 +102,7 @@ void connection(const char *host) {
 		while (!close || !queueInfo.empty()){
 			if (!queueInfo.empty()){
 				informacio i = queueInfo.getFirstInfo();
-				std::cout << "SENDING" << std::endl;
+				//std::cout << "SENDING" << std::endl;
 				boost::array<char, 2> send_buf = { i.action, i.value % 256 };
 				socket.send_to(boost::asio::buffer(send_buf), server_endpoint);
 			}
@@ -150,8 +150,6 @@ bool endedGame(std::vector<bool> letters, std::string word) {
 	for (int i = 0; i < word.size(); ++i) {
 		if (!letters[word[i] - 'A']) return false;
 	}
-	informacio info = { ACTION_END_GAME, 2 };
-	queueInfo.putIn(info);
 	return true;
 }
 
@@ -262,9 +260,13 @@ void startGame(int l) {
 		std::cout << "YOU WIN!" << std::endl;
 		drawGame(letters, words[wid], lives);
 		startGame(lives);
+		informacio info = { ACTION_END_GAME, 0 };
+		queueInfo.putIn(info);
 	}
 	else {
 		std::cout << "YOU LOSE!" << std::endl;
+		informacio info = { ACTION_END_GAME, 1 };
+		queueInfo.putIn(info);
 	}
 }
 
